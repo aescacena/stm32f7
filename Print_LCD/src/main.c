@@ -135,28 +135,29 @@ static void Display_DemoDescription(void){
   BSP_LCD_SetFont(&LCD_DEFAULT_FONT);
 
   /* Clear the LCD */
-  BSP_LCD_SetBackColor(LCD_COLOR_WHITE);
-  BSP_LCD_Clear(LCD_COLOR_WHITE);
+  BSP_LCD_SetBackColor(LCD_COLOR_WHITE);//Fondo de letras
+  BSP_LCD_Clear(LCD_COLOR_WHITE);//Fondo de pantalla
 
   /* Set the LCD Text Color */
   BSP_LCD_SetTextColor(LCD_COLOR_DARKBLUE);
 
   /* Display LCD messages */
-  BSP_LCD_DisplayStringAt(0, 10, (uint8_t *)"STM32F746G BSP", CENTER_MODE);
-  BSP_LCD_DisplayStringAt(0, 35, (uint8_t *)"Ejemplo Antonio", CENTER_MODE);
+  BSP_LCD_DisplayStringAt(0, 40, (uint8_t *)"STM32F746G", CENTER_MODE);
+  BSP_LCD_DisplayStringAt(0, 65, (uint8_t *)"Ejemplo Antonio", CENTER_MODE);
 
   /* Draw Bitmap */
   //BSP_LCD_DrawBitmap((BSP_LCD_GetXSize() - 80) / 2, 65, (uint8_t *)stlogo);
 
-  BSP_LCD_SetFont(&Font12);
-  BSP_LCD_DisplayStringAt(0, BSP_LCD_GetYSize() - 20, (uint8_t *)"Copyright (c) STMicroelectronics 2015", CENTER_MODE);
+  BSP_LCD_SetFont(&Font12); //Tamaño de letra
+  BSP_LCD_DisplayStringAt(0, BSP_LCD_GetYSize() - 20, (uint8_t *)"Diseno Microcontroladores. Universidad De Sevilla", CENTER_MODE);
 
   BSP_LCD_SetFont(&Font16);
   BSP_LCD_SetTextColor(LCD_COLOR_BLUE);
   BSP_LCD_FillRect(0, BSP_LCD_GetYSize() / 2 + 15, BSP_LCD_GetXSize(), 60);
-  BSP_LCD_SetTextColor(LCD_COLOR_WHITE);
-  BSP_LCD_SetBackColor(LCD_COLOR_BLUE);
-  BSP_LCD_DisplayStringAt(0, BSP_LCD_GetYSize() / 2 + 30, (uint8_t *)"Press User Button to start :", CENTER_MODE);
-  sprintf((char *)desc, "Mi primera impresión por pantalla LCD");
+
+  BSP_LCD_SetTextColor(LCD_COLOR_WHITE);//Color de texto
+  BSP_LCD_SetBackColor(LCD_COLOR_BLUE);//Color de fondo de texto
+  BSP_LCD_DisplayStringAt(0, BSP_LCD_GetYSize() / 2 + 30, (uint8_t *)"Tamano de rectangulo:", CENTER_MODE);
+  sprintf((char *)desc, "Eje X: %d y Eje Y: %d", BSP_LCD_GetXSize(), BSP_LCD_GetYSize());
   BSP_LCD_DisplayStringAt(0, BSP_LCD_GetYSize() / 2 + 45, (uint8_t *)desc, CENTER_MODE);
 }
