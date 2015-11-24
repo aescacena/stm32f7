@@ -7,19 +7,22 @@ C_SRCS += \
 ../src/main.c \
 ../src/stm32f7xx_it.c \
 ../src/syscalls.c \
-../src/system_stm32f7xx.c 
+../src/system_stm32f7xx.c \
+../src/touchscreen.c 
 
 OBJS += \
 ./src/main.o \
 ./src/stm32f7xx_it.o \
 ./src/syscalls.o \
-./src/system_stm32f7xx.o 
+./src/system_stm32f7xx.o \
+./src/touchscreen.o 
 
 C_DEPS += \
 ./src/main.d \
 ./src/stm32f7xx_it.d \
 ./src/syscalls.d \
-./src/system_stm32f7xx.d 
+./src/system_stm32f7xx.d \
+./src/touchscreen.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes

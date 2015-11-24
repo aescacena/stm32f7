@@ -1,4 +1,5 @@
-src/main.o: ../src/main.c C:/Users/aesca/workspace/Print_LCD/inc/main.h \
+src/touchscreen.o: ../src/touchscreen.c \
+ C:/Users/aesca/workspace/Print_LCD/inc/main.h \
  C:/Users/aesca/workspace/Print_LCD/CMSIS/device/stm32f7xx.h \
  C:/Users/aesca/workspace/Print_LCD/CMSIS/device/stm32f746xx.h \
  C:/Users/aesca/workspace/Print_LCD/CMSIS/core/core_cm7.h \

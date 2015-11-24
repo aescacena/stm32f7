@@ -230,9 +230,11 @@ Discarded input sections
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
  .text          0x00000000        0x0 src/main.o
  .data          0x00000000        0x0 src/main.o
- .bss           0x00000000        0x0 src/main.o
  .group         0x00000000        0x8 src/stm32f7xx_it.o
  .group         0x00000000        0x8 src/stm32f7xx_it.o
  .group         0x00000000        0x8 src/stm32f7xx_it.o
@@ -720,6 +722,230 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df src/system_stm32f7xx.o
  .debug_macro   0x00000000      0x119 src/system_stm32f7xx.o
  .debug_macro   0x00000000       0x75 src/system_stm32f7xx.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .group         0x00000000        0x8 src/touchscreen.o
+ .text          0x00000000        0x0 src/touchscreen.o
+ .data          0x00000000        0x0 src/touchscreen.o
+ .debug_macro   0x00000000      0x892 src/touchscreen.o
+ .debug_macro   0x00000000       0x28 src/touchscreen.o
+ .debug_macro   0x00000000       0x3b src/touchscreen.o
+ .debug_macro   0x00000000       0x3b src/touchscreen.o
+ .debug_macro   0x00000000       0x22 src/touchscreen.o
+ .debug_macro   0x00000000       0x44 src/touchscreen.o
+ .debug_macro   0x00000000       0x1c src/touchscreen.o
+ .debug_macro   0x00000000      0x1f7 src/touchscreen.o
+ .debug_macro   0x00000000       0x34 src/touchscreen.o
+ .debug_macro   0x00000000       0x26 src/touchscreen.o
+ .debug_macro   0x00000000     0x10a4 src/touchscreen.o
+ .debug_macro   0x00000000     0xa6d7 src/touchscreen.o
+ .debug_macro   0x00000000       0x43 src/touchscreen.o
+ .debug_macro   0x00000000      0x25a src/touchscreen.o
+ .debug_macro   0x00000000     0x2c17 src/touchscreen.o
+ .debug_macro   0x00000000       0x58 src/touchscreen.o
+ .debug_macro   0x00000000       0x35 src/touchscreen.o
+ .debug_macro   0x00000000       0x9c src/touchscreen.o
+ .debug_macro   0x00000000       0x16 src/touchscreen.o
+ .debug_macro   0x00000000       0x97 src/touchscreen.o
+ .debug_macro   0x00000000      0x29d src/touchscreen.o
+ .debug_macro   0x00000000       0xef src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000       0x52 src/touchscreen.o
+ .debug_macro   0x00000000       0x16 src/touchscreen.o
+ .debug_macro   0x00000000       0x43 src/touchscreen.o
+ .debug_macro   0x00000000      0x180 src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000       0x22 src/touchscreen.o
+ .debug_macro   0x00000000       0xbd src/touchscreen.o
+ .debug_macro   0x00000000       0x16 src/touchscreen.o
+ .debug_macro   0x00000000      0x196 src/touchscreen.o
+ .debug_macro   0x00000000       0x57 src/touchscreen.o
+ .debug_macro   0x00000000      0x5bb src/touchscreen.o
+ .debug_macro   0x00000000     0x188a src/touchscreen.o
+ .debug_macro   0x00000000       0xdd src/touchscreen.o
+ .debug_macro   0x00000000      0x11e src/touchscreen.o
+ .debug_macro   0x00000000      0x1f4 src/touchscreen.o
+ .debug_macro   0x00000000       0x27 src/touchscreen.o
+ .debug_macro   0x00000000      0x272 src/touchscreen.o
+ .debug_macro   0x00000000       0x5f src/touchscreen.o
+ .debug_macro   0x00000000      0x241 src/touchscreen.o
+ .debug_macro   0x00000000      0x313 src/touchscreen.o
+ .debug_macro   0x00000000      0x14d src/touchscreen.o
+ .debug_macro   0x00000000       0xd6 src/touchscreen.o
+ .debug_macro   0x00000000      0x360 src/touchscreen.o
+ .debug_macro   0x00000000      0x272 src/touchscreen.o
+ .debug_macro   0x00000000       0xab src/touchscreen.o
+ .debug_macro   0x00000000       0x4c src/touchscreen.o
+ .debug_macro   0x00000000       0x2e src/touchscreen.o
+ .debug_macro   0x00000000      0x1f3 src/touchscreen.o
+ .debug_macro   0x00000000       0xe6 src/touchscreen.o
+ .debug_macro   0x00000000       0xa1 src/touchscreen.o
+ .debug_macro   0x00000000       0x3c src/touchscreen.o
+ .debug_macro   0x00000000       0x6c src/touchscreen.o
+ .debug_macro   0x00000000      0x1aa src/touchscreen.o
+ .debug_macro   0x00000000      0xda1 src/touchscreen.o
+ .debug_macro   0x00000000      0x111 src/touchscreen.o
+ .debug_macro   0x00000000      0x293 src/touchscreen.o
+ .debug_macro   0x00000000      0x50f src/touchscreen.o
+ .debug_macro   0x00000000       0x88 src/touchscreen.o
+ .debug_macro   0x00000000       0xce src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000      0x1d0 src/touchscreen.o
+ .debug_macro   0x00000000       0x22 src/touchscreen.o
+ .debug_macro   0x00000000       0x66 src/touchscreen.o
+ .debug_macro   0x00000000      0x1b5 src/touchscreen.o
+ .debug_macro   0x00000000       0xab src/touchscreen.o
+ .debug_macro   0x00000000      0x22c src/touchscreen.o
+ .debug_macro   0x00000000      0x240 src/touchscreen.o
+ .debug_macro   0x00000000      0x133 src/touchscreen.o
+ .debug_macro   0x00000000      0x10c src/touchscreen.o
+ .debug_macro   0x00000000       0x3c src/touchscreen.o
+ .debug_macro   0x00000000      0x2db src/touchscreen.o
+ .debug_macro   0x00000000       0x7b src/touchscreen.o
+ .debug_macro   0x00000000      0x313 src/touchscreen.o
+ .debug_macro   0x00000000      0x4dc src/touchscreen.o
+ .debug_macro   0x00000000       0xd6 src/touchscreen.o
+ .debug_macro   0x00000000      0x398 src/touchscreen.o
+ .debug_macro   0x00000000       0xd6 src/touchscreen.o
+ .debug_macro   0x00000000      0x398 src/touchscreen.o
+ .debug_macro   0x00000000      0x22b src/touchscreen.o
+ .debug_macro   0x00000000      0x1ed src/touchscreen.o
+ .debug_macro   0x00000000      0x2e2 src/touchscreen.o
+ .debug_macro   0x00000000      0x677 src/touchscreen.o
+ .debug_macro   0x00000000      0x24f src/touchscreen.o
+ .debug_macro   0x00000000      0x138 src/touchscreen.o
+ .debug_macro   0x00000000      0x4e8 src/touchscreen.o
+ .debug_macro   0x00000000       0x47 src/touchscreen.o
+ .debug_macro   0x00000000      0x1df src/touchscreen.o
+ .debug_macro   0x00000000       0x29 src/touchscreen.o
+ .debug_macro   0x00000000       0x58 src/touchscreen.o
+ .debug_macro   0x00000000      0x1c3 src/touchscreen.o
+ .debug_macro   0x00000000       0x30 src/touchscreen.o
+ .debug_macro   0x00000000       0x58 src/touchscreen.o
+ .debug_macro   0x00000000      0x2cd src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000       0xa5 src/touchscreen.o
+ .debug_macro   0x00000000       0x8d src/touchscreen.o
+ .debug_macro   0x00000000      0x1df src/touchscreen.o
+ .debug_macro   0x00000000      0x119 src/touchscreen.o
+ .debug_macro   0x00000000       0x75 src/touchscreen.o
+ .debug_macro   0x00000000      0x130 src/touchscreen.o
+ .debug_macro   0x00000000      0x264 src/touchscreen.o
+ .debug_macro   0x00000000       0x40 src/touchscreen.o
+ .debug_macro   0x00000000       0xa0 src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000      0x11e src/touchscreen.o
+ .debug_macro   0x00000000       0x10 src/touchscreen.o
+ .debug_macro   0x00000000      0x39f src/touchscreen.o
+ .debug_macro   0x00000000       0x2e src/touchscreen.o
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
@@ -825,7 +1051,6 @@ Discarded input sections
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text          0x00000000        0x0 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .bss           0x00000000       0x78 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.BSP_GetVersion
                 0x00000000       0x14 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.BSP_LED_DeInit
@@ -838,24 +1063,12 @@ Discarded input sections
                 0x00000000       0x2c Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.BSP_PB_DeInit
                 0x00000000       0x4c Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.BSP_PB_GetState
-                0x00000000       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.BSP_COM_Init
                 0x00000000       0xd8 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.BSP_COM_DeInit
                 0x00000000       0x40 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.I2Cx_MspInit
-                0x00000000      0x160 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.I2Cx_Init
-                0x00000000       0x78 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.I2Cx_ReadMultiple
-                0x00000000       0x5c Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.I2Cx_WriteMultiple
-                0x00000000       0x5c Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.I2Cx_IsDeviceReady
                 0x00000000       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.I2Cx_Error
-                0x00000000       0x20 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.AUDIO_IO_Init
                 0x00000000       0x10 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.AUDIO_IO_DeInit
@@ -882,14 +1095,6 @@ Discarded input sections
                 0x00000000       0x3c Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .text.EEPROM_IO_IsDeviceReady
                 0x00000000       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.TS_IO_Init
-                0x00000000       0x10 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.TS_IO_Write
-                0x00000000       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.TS_IO_Read
-                0x00000000       0x3c Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .text.TS_IO_Delay
-                0x00000000       0x14 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .debug_macro   0x00000000      0x892 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .debug_macro   0x00000000      0x25a Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .debug_macro   0x00000000       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery.o
@@ -1964,24 +2169,14 @@ Discarded input sections
                 0x00000000       0xc4 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_DisplayStringAtLine
                 0x00000000       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .text.BSP_LCD_DrawHLine
-                0x00000000       0xbc Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .text.BSP_LCD_DrawVLine
-                0x00000000       0xc4 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_DrawLine
                 0x00000000      0x190 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .text.BSP_LCD_DrawRect
-                0x00000000       0x70 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .text.BSP_LCD_DrawCircle
-                0x00000000      0x1e0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_DrawPolygon
                 0x00000000       0x8c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_DrawEllipse
                 0x00000000      0x1f8 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_DrawBitmap
                 0x00000000      0x128 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .text.BSP_LCD_FillCircle
-                0x00000000      0x150 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_FillPolygon
                 0x00000000      0x1bc Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_LCD_FillEllipse
@@ -2951,29 +3146,16 @@ Discarded input sections
  .group         0x00000000        0x8 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text          0x00000000        0x0 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .data          0x00000000        0x0 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .bss           0x00000000       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .text.BSP_TS_Init
-                0x00000000       0x80 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text.BSP_TS_DeInit
                 0x00000000       0x10 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text.BSP_TS_ITConfig
                 0x00000000       0x5c Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text.BSP_TS_ITGetStatus
                 0x00000000       0x24 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .text.BSP_TS_GetState
-                0x00000000      0x3ac Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .text.BSP_TS_Get_GestureId
-                0x00000000       0x94 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text.BSP_TS_ITClear
                 0x00000000       0x20 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .text.BSP_TS_ResetTouchData
                 0x00000000       0x80 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_info    0x00000000      0x914 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_abbrev  0x00000000      0x1fb Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_aranges
-                0x00000000       0x58 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_ranges  0x00000000       0x48 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_macro   0x00000000      0x4bc Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_macro   0x00000000      0x892 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_macro   0x00000000      0x25a Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_macro   0x00000000       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
@@ -3081,12 +3263,6 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_macro   0x00000000      0x39f Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_macro   0x00000000       0x2e Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_line    0x00000000      0xcee Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_str     0x00000000    0xc689b Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .comment       0x00000000       0x71 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .debug_frame   0x00000000      0x124 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
- .ARM.attributes
-                0x00000000       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .group         0x00000000        0x8 Utilities/Log/lcd_log.o
  .group         0x00000000        0x8 Utilities/Log/lcd_log.o
  .group         0x00000000        0x8 Utilities/Log/lcd_log.o
@@ -3760,44 +3936,6 @@ Discarded input sections
  .group         0x00000000        0x8 Utilities/Components/ft5336/ft5336.o
  .group         0x00000000        0x8 Utilities/Components/ft5336/ft5336.o
  .text          0x00000000        0x0 Utilities/Components/ft5336/ft5336.o
- .data          0x00000000       0x28 Utilities/Components/ft5336/ft5336.o
- .bss           0x00000000        0x8 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_Init
-                0x00000000       0x1c Utilities/Components/ft5336/ft5336.o
- .text.ft5336_Reset
-                0x00000000       0x14 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_ReadID
-                0x00000000       0x5c Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_Start
-                0x00000000       0x20 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_DetectTouch
-                0x00000000       0x54 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_GetXY
-                0x00000000      0x1dc Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_EnableIT
-                0x00000000       0x28 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_DisableIT
-                0x00000000       0x28 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_ITStatus
-                0x00000000       0x18 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_ClearIT
-                0x00000000       0x14 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_GetGestureID
-                0x00000000       0x30 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_GetTouchInfo
-                0x00000000      0x15c Utilities/Components/ft5336/ft5336.o
- .text.ft5336_Get_I2C_InitializedStatus
-                0x00000000       0x18 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_I2C_InitializeIfRequired
-                0x00000000       0x20 Utilities/Components/ft5336/ft5336.o
- .text.ft5336_TS_Configure
-                0x00000000       0x1c Utilities/Components/ft5336/ft5336.o
- .debug_info    0x00000000      0x58d Utilities/Components/ft5336/ft5336.o
- .debug_abbrev  0x00000000      0x1c5 Utilities/Components/ft5336/ft5336.o
- .debug_aranges
-                0x00000000       0x90 Utilities/Components/ft5336/ft5336.o
- .debug_ranges  0x00000000       0x80 Utilities/Components/ft5336/ft5336.o
- .debug_macro   0x00000000       0x63 Utilities/Components/ft5336/ft5336.o
  .debug_macro   0x00000000      0x892 Utilities/Components/ft5336/ft5336.o
  .debug_macro   0x00000000       0x10 Utilities/Components/ft5336/ft5336.o
  .debug_macro   0x00000000       0x22 Utilities/Components/ft5336/ft5336.o
@@ -3805,12 +3943,6 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c Utilities/Components/ft5336/ft5336.o
  .debug_macro   0x00000000      0x1f7 Utilities/Components/ft5336/ft5336.o
  .debug_macro   0x00000000      0x39f Utilities/Components/ft5336/ft5336.o
- .debug_line    0x00000000      0x497 Utilities/Components/ft5336/ft5336.o
- .debug_str     0x00000000     0x4700 Utilities/Components/ft5336/ft5336.o
- .comment       0x00000000       0x71 Utilities/Components/ft5336/ft5336.o
- .debug_frame   0x00000000      0x230 Utilities/Components/ft5336/ft5336.o
- .ARM.attributes
-                0x00000000       0x39 Utilities/Components/ft5336/ft5336.o
  .group         0x00000000        0x8 Utilities/Components/exc7200/exc7200.o
  .group         0x00000000        0x8 Utilities/Components/exc7200/exc7200.o
  .group         0x00000000        0x8 Utilities/Components/exc7200/exc7200.o
@@ -8869,8 +9001,6 @@ Discarded input sections
  .bss           0x00000000        0x0 HAL_Driver/Src/stm32f7xx_hal_gpio.o
  .text.HAL_GPIO_DeInit
                 0x00000000      0x214 HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .text.HAL_GPIO_ReadPin
-                0x00000000       0x30 HAL_Driver/Src/stm32f7xx_hal_gpio.o
  .text.HAL_GPIO_TogglePin
                 0x00000000       0x24 HAL_Driver/Src/stm32f7xx_hal_gpio.o
  .text.HAL_GPIO_LockPin
@@ -9797,14 +9927,6 @@ Discarded input sections
  .text          0x00000000        0x0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .data          0x00000000        0x0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .bss           0x00000000        0x0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_Init
-                0x00000000      0x108 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_DeInit
-                0x00000000       0x50 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_MspInit
-                0x00000000       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_MspDeInit
-                0x00000000       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_Master_Transmit
                 0x00000000      0x198 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_Master_Receive
@@ -9829,10 +9951,6 @@ Discarded input sections
                 0x00000000      0x15c HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_Slave_Receive_DMA
                 0x00000000      0x120 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_Mem_Write
-                0x00000000      0x1d4 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_Mem_Read
-                0x00000000      0x1d0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_Mem_Write_IT
                 0x00000000      0x130 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_Mem_Read_IT
@@ -9861,8 +9979,6 @@ Discarded input sections
                 0x00000000       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_ErrorCallback
                 0x00000000       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.HAL_I2C_GetState
-                0x00000000       0x1c HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_I2C_GetError
                 0x00000000       0x18 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_MasterTransmit_ISR
@@ -9873,10 +9989,6 @@ Discarded input sections
                 0x00000000      0x11c HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_SlaveReceive_ISR
                 0x00000000      0x104 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_RequestMemoryWrite
-                0x00000000       0xb8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_RequestMemoryRead
-                0x00000000       0xb4 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_DMAMasterTransmitCplt
                 0x00000000      0x270 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_DMASlaveTransmitCplt
@@ -9891,24 +10003,8 @@ Discarded input sections
                 0x00000000      0x288 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_DMAError
                 0x00000000       0x44 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_WaitOnFlagUntilTimeout
-                0x00000000       0xb8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_WaitOnTXISFlagUntilTimeout
-                0x00000000       0x7c HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_WaitOnSTOPFlagUntilTimeout
-                0x00000000       0x78 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.I2C_WaitOnRXNEFlagUntilTimeout
                 0x00000000       0xa8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_IsAcknowledgeFailed
-                0x00000000       0xf0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .text.I2C_TransferConfig
-                0x00000000       0x5c HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_info    0x00000000     0x148f HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_abbrev  0x00000000      0x1c8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_aranges
-                0x00000000      0x1c0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_ranges  0x00000000      0x1b0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_macro   0x00000000      0x4cd HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_macro   0x00000000      0x892 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_macro   0x00000000      0x25a HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_macro   0x00000000       0x28 HAL_Driver/Src/stm32f7xx_hal_i2c.o
@@ -10012,12 +10108,6 @@ Discarded input sections
  .debug_macro   0x00000000      0x119 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_macro   0x00000000       0x75 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_macro   0x00000000      0x130 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_line    0x00000000     0x17a6 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_str     0x00000000    0xc444d HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .debug_frame   0x00000000      0x814 HAL_Driver/Src/stm32f7xx_hal_i2c.o
- .ARM.attributes
-                0x00000000       0x39 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
@@ -19889,6 +19979,7 @@ LOAD src/main.o
 LOAD src/stm32f7xx_it.o
 LOAD src/syscalls.o
 LOAD src/system_stm32f7xx.o
+LOAD src/touchscreen.o
 LOAD Utilities/STM32746G-Discovery/stm32746g_discovery.o
 LOAD Utilities/STM32746G-Discovery/stm32746g_discovery_audio.o
 LOAD Utilities/STM32746G-Discovery/stm32746g_discovery_camera.o
@@ -19985,7 +20076,7 @@ LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.
                 0x08000000                g_pfnVectors
                 0x080001c8                . = ALIGN (0x4)
 
-.text           0x080001c8     0x9e8c
+.text           0x080001c8     0xc604
                 0x080001c8                . = ALIGN (0x4)
  *(.text)
  .text          0x080001c8       0x5c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
@@ -20164,427 +20255,568 @@ LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.
                 0x0800125c       0xa4 src/main.o
  .text.SCB_InvalidateDCache
                 0x08001300       0x94 src/main.o
- .text.main     0x08001394       0x44 src/main.o
+ .text.main     0x08001394       0xd8 src/main.o
                 0x08001394                main
+ .text.CheckForUserInput
+                0x0800146c       0x30 src/main.o
+                0x0800146c                CheckForUserInput
  .text.CPU_CACHE_Enable
-                0x080013d8       0x68 src/main.o
+                0x0800149c       0x68 src/main.o
  .text.SystemClock_Config
-                0x08001440       0xd4 src/main.o
+                0x08001504       0xd4 src/main.o
  .text.Display_DemoDescription
-                0x08001514      0x118 src/main.o
+                0x080015d8      0x174 src/main.o
  .text.SysTick_Handler
-                0x0800162c       0x10 src/stm32f7xx_it.o
-                0x0800162c                SysTick_Handler
- .text._sbrk    0x0800163c       0x58 src/syscalls.o
-                0x0800163c                _sbrk
+                0x0800174c       0x10 src/stm32f7xx_it.o
+                0x0800174c                SysTick_Handler
+ .text._sbrk    0x0800175c       0x58 src/syscalls.o
+                0x0800175c                _sbrk
  .text.SystemInit
-                0x08001694       0x6c src/system_stm32f7xx.o
-                0x08001694                SystemInit
+                0x080017b4       0x6c src/system_stm32f7xx.o
+                0x080017b4                SystemInit
+ .text.Touchscreen_demo
+                0x08001820      0x5d8 src/touchscreen.o
+                0x08001820                Touchscreen_demo
+ .text.Touchscreen_SetHint
+                0x08001df8       0xd8 src/touchscreen.o
+ .text.Touchscreen_DrawBackground
+                0x08001ed0      0x340 src/touchscreen.o
  .text.BSP_LED_Init
-                0x08001700       0x64 Utilities/STM32746G-Discovery/stm32746g_discovery.o
-                0x08001700                BSP_LED_Init
+                0x08002210       0x64 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x08002210                BSP_LED_Init
  .text.BSP_PB_Init
-                0x08001764      0x11c Utilities/STM32746G-Discovery/stm32746g_discovery.o
-                0x08001764                BSP_PB_Init
+                0x08002274      0x11c Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x08002274                BSP_PB_Init
+ .text.BSP_PB_GetState
+                0x08002390       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x08002390                BSP_PB_GetState
+ .text.I2Cx_MspInit
+                0x080023c4      0x160 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .text.I2Cx_Init
+                0x08002524       0x78 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .text.I2Cx_ReadMultiple
+                0x0800259c       0x5c Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .text.I2Cx_WriteMultiple
+                0x080025f8       0x5c Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .text.I2Cx_Error
+                0x08002654       0x20 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .text.TS_IO_Init
+                0x08002674       0x10 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x08002674                TS_IO_Init
+ .text.TS_IO_Write
+                0x08002684       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x08002684                TS_IO_Write
+ .text.TS_IO_Read
+                0x080026b8       0x3c Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x080026b8                TS_IO_Read
+ .text.TS_IO_Delay
+                0x080026f4       0x14 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x080026f4                TS_IO_Delay
  .text.BSP_LCD_Init
-                0x08001880       0xe0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001880                BSP_LCD_Init
+                0x08002708       0xe0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002708                BSP_LCD_Init
  .text.BSP_LCD_GetXSize
-                0x08001960       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001960                BSP_LCD_GetXSize
+                0x080027e8       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x080027e8                BSP_LCD_GetXSize
  .text.BSP_LCD_GetYSize
-                0x08001988       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001988                BSP_LCD_GetYSize
+                0x08002810       0x28 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002810                BSP_LCD_GetYSize
  .text.BSP_LCD_LayerDefaultInit
-                0x080019b0       0xc0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x080019b0                BSP_LCD_LayerDefaultInit
+                0x08002838       0xc0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002838                BSP_LCD_LayerDefaultInit
  .text.BSP_LCD_SelectLayer
-                0x08001a70       0x1c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001a70                BSP_LCD_SelectLayer
+                0x080028f8       0x1c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x080028f8                BSP_LCD_SelectLayer
  .text.BSP_LCD_SetTextColor
-                0x08001a8c       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001a8c                BSP_LCD_SetTextColor
+                0x08002914       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002914                BSP_LCD_SetTextColor
  .text.BSP_LCD_SetBackColor
-                0x08001abc       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001abc                BSP_LCD_SetBackColor
+                0x08002944       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002944                BSP_LCD_SetBackColor
  .text.BSP_LCD_SetFont
-                0x08001aec       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001aec                BSP_LCD_SetFont
+                0x08002974       0x30 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002974                BSP_LCD_SetFont
  .text.BSP_LCD_Clear
-                0x08001b1c       0x54 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001b1c                BSP_LCD_Clear
+                0x080029a4       0x54 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x080029a4                BSP_LCD_Clear
  .text.BSP_LCD_DisplayChar
-                0x08001b70       0x8c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001b70                BSP_LCD_DisplayChar
+                0x080029f8       0x8c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x080029f8                BSP_LCD_DisplayChar
  .text.BSP_LCD_DisplayStringAt
-                0x08001bfc      0x188 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001bfc                BSP_LCD_DisplayStringAt
+                0x08002a84      0x188 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002a84                BSP_LCD_DisplayStringAt
+ .text.BSP_LCD_DrawHLine
+                0x08002c0c       0xbc Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002c0c                BSP_LCD_DrawHLine
+ .text.BSP_LCD_DrawVLine
+                0x08002cc8       0xc4 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002cc8                BSP_LCD_DrawVLine
+ .text.BSP_LCD_DrawRect
+                0x08002d8c       0x70 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002d8c                BSP_LCD_DrawRect
+ .text.BSP_LCD_DrawCircle
+                0x08002dfc      0x1e0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002dfc                BSP_LCD_DrawCircle
  .text.BSP_LCD_DrawPixel
-                0x08001d84       0x90 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001d84                BSP_LCD_DrawPixel
+                0x08002fdc       0x90 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08002fdc                BSP_LCD_DrawPixel
  .text.BSP_LCD_FillRect
-                0x08001e14       0xf0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001e14                BSP_LCD_FillRect
+                0x0800306c       0xf0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x0800306c                BSP_LCD_FillRect
+ .text.BSP_LCD_FillCircle
+                0x0800315c      0x150 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x0800315c                BSP_LCD_FillCircle
  .text.BSP_LCD_MspInit
-                0x08001f04      0x1b0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x08001f04                BSP_LCD_MspInit
+                0x080032ac      0x1b0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x080032ac                BSP_LCD_MspInit
  .text.BSP_LCD_ClockConfig
-                0x080020b4       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x080020b4                BSP_LCD_ClockConfig
+                0x0800345c       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x0800345c                BSP_LCD_ClockConfig
  .text.DrawChar
-                0x080020e8      0x170 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08003490      0x170 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.LL_FillBuffer
-                0x08002258       0x94 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x08003600       0x94 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .text.BSP_SDRAM_Init
-                0x080022ec       0xbc Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
-                0x080022ec                BSP_SDRAM_Init
+                0x08003694       0xbc Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+                0x08003694                BSP_SDRAM_Init
  .text.BSP_SDRAM_Initialization_sequence
-                0x080023a8       0xc0 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
-                0x080023a8                BSP_SDRAM_Initialization_sequence
+                0x08003750       0xc0 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+                0x08003750                BSP_SDRAM_Initialization_sequence
  .text.BSP_SDRAM_MspInit
-                0x08002468      0x1ec Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
-                0x08002468                BSP_SDRAM_MspInit
+                0x08003810      0x1ec Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+                0x08003810                BSP_SDRAM_MspInit
+ .text.BSP_TS_Init
+                0x080039fc       0x80 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+                0x080039fc                BSP_TS_Init
+ .text.BSP_TS_GetState
+                0x08003a7c      0x3ac Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+                0x08003a7c                BSP_TS_GetState
+ .text.BSP_TS_Get_GestureId
+                0x08003e28       0x94 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+                0x08003e28                BSP_TS_Get_GestureId
+ .text.ft5336_Init
+                0x08003ebc       0x1c Utilities/Components/ft5336/ft5336.o
+                0x08003ebc                ft5336_Init
+ .text.ft5336_Reset
+                0x08003ed8       0x14 Utilities/Components/ft5336/ft5336.o
+                0x08003ed8                ft5336_Reset
+ .text.ft5336_ReadID
+                0x08003eec       0x5c Utilities/Components/ft5336/ft5336.o
+                0x08003eec                ft5336_ReadID
+ .text.ft5336_TS_Start
+                0x08003f48       0x20 Utilities/Components/ft5336/ft5336.o
+                0x08003f48                ft5336_TS_Start
+ .text.ft5336_TS_DetectTouch
+                0x08003f68       0x54 Utilities/Components/ft5336/ft5336.o
+                0x08003f68                ft5336_TS_DetectTouch
+ .text.ft5336_TS_GetXY
+                0x08003fbc      0x1dc Utilities/Components/ft5336/ft5336.o
+                0x08003fbc                ft5336_TS_GetXY
+ .text.ft5336_TS_EnableIT
+                0x08004198       0x28 Utilities/Components/ft5336/ft5336.o
+                0x08004198                ft5336_TS_EnableIT
+ .text.ft5336_TS_DisableIT
+                0x080041c0       0x28 Utilities/Components/ft5336/ft5336.o
+                0x080041c0                ft5336_TS_DisableIT
+ .text.ft5336_TS_ITStatus
+                0x080041e8       0x18 Utilities/Components/ft5336/ft5336.o
+                0x080041e8                ft5336_TS_ITStatus
+ .text.ft5336_TS_ClearIT
+                0x08004200       0x14 Utilities/Components/ft5336/ft5336.o
+                0x08004200                ft5336_TS_ClearIT
+ .text.ft5336_TS_GetGestureID
+                0x08004214       0x30 Utilities/Components/ft5336/ft5336.o
+                0x08004214                ft5336_TS_GetGestureID
+ .text.ft5336_TS_GetTouchInfo
+                0x08004244      0x15c Utilities/Components/ft5336/ft5336.o
+                0x08004244                ft5336_TS_GetTouchInfo
+ .text.ft5336_Get_I2C_InitializedStatus
+                0x080043a0       0x18 Utilities/Components/ft5336/ft5336.o
+ .text.ft5336_I2C_InitializeIfRequired
+                0x080043b8       0x20 Utilities/Components/ft5336/ft5336.o
+ .text.ft5336_TS_Configure
+                0x080043d8       0x1c Utilities/Components/ft5336/ft5336.o
  .text.HAL_Init
-                0x08002654       0x2c HAL_Driver/Src/stm32f7xx_hal.o
-                0x08002654                HAL_Init
+                0x080043f4       0x2c HAL_Driver/Src/stm32f7xx_hal.o
+                0x080043f4                HAL_Init
  .text.HAL_InitTick
-                0x08002680       0x38 HAL_Driver/Src/stm32f7xx_hal.o
-                0x08002680                HAL_InitTick
+                0x08004420       0x38 HAL_Driver/Src/stm32f7xx_hal.o
+                0x08004420                HAL_InitTick
  .text.HAL_IncTick
-                0x080026b8       0x1c HAL_Driver/Src/stm32f7xx_hal.o
-                0x080026b8                HAL_IncTick
+                0x08004458       0x1c HAL_Driver/Src/stm32f7xx_hal.o
+                0x08004458                HAL_IncTick
  .text.HAL_GetTick
-                0x080026d4       0x18 HAL_Driver/Src/stm32f7xx_hal.o
-                0x080026d4                HAL_GetTick
+                0x08004474       0x18 HAL_Driver/Src/stm32f7xx_hal.o
+                0x08004474                HAL_GetTick
  .text.HAL_Delay
-                0x080026ec       0x2c HAL_Driver/Src/stm32f7xx_hal.o
-                0x080026ec                HAL_Delay
+                0x0800448c       0x2c HAL_Driver/Src/stm32f7xx_hal.o
+                0x0800448c                HAL_Delay
  .text.NVIC_SetPriorityGrouping
-                0x08002718       0x48 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x080044b8       0x48 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.NVIC_GetPriorityGrouping
-                0x08002760       0x1c HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x08004500       0x1c HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.NVIC_EnableIRQ
-                0x0800277c       0x30 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x0800451c       0x30 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.NVIC_SetPriority
-                0x080027ac       0x54 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x0800454c       0x54 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.NVIC_EncodePriority
-                0x08002800       0x64 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x080045a0       0x64 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.SysTick_Config
-                0x08002864       0x44 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x08004604       0x44 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .text.HAL_NVIC_SetPriorityGrouping
-                0x080028a8       0x14 HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x080028a8                HAL_NVIC_SetPriorityGrouping
+                0x08004648       0x14 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x08004648                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x080028bc       0x38 HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x080028bc                HAL_NVIC_SetPriority
+                0x0800465c       0x38 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x0800465c                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x080028f4       0x1c HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x080028f4                HAL_NVIC_EnableIRQ
+                0x08004694       0x1c HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x08004694                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08002910       0x18 HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x08002910                HAL_SYSTICK_Config
+                0x080046b0       0x18 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x080046b0                HAL_SYSTICK_Config
  .text.HAL_SYSTICK_IRQHandler
-                0x08002928        0xc HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x08002928                HAL_SYSTICK_IRQHandler
+                0x080046c8        0xc HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x080046c8                HAL_SYSTICK_IRQHandler
  .text.HAL_SYSTICK_Callback
-                0x08002934        0xc HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                0x08002934                HAL_SYSTICK_Callback
+                0x080046d4        0xc HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x080046d4                HAL_SYSTICK_Callback
  .text.HAL_DMA_Init
-                0x08002940       0xd8 HAL_Driver/Src/stm32f7xx_hal_dma.o
-                0x08002940                HAL_DMA_Init
+                0x080046e0       0xd8 HAL_Driver/Src/stm32f7xx_hal_dma.o
+                0x080046e0                HAL_DMA_Init
  .text.HAL_DMA_DeInit
-                0x08002a18     0x140c HAL_Driver/Src/stm32f7xx_hal_dma.o
-                0x08002a18                HAL_DMA_DeInit
+                0x080047b8     0x140c HAL_Driver/Src/stm32f7xx_hal_dma.o
+                0x080047b8                HAL_DMA_DeInit
  .text.HAL_DMA2D_Init
-                0x08003e24       0xbc HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                0x08003e24                HAL_DMA2D_Init
+                0x08005bc4       0xbc HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08005bc4                HAL_DMA2D_Init
  .text.HAL_DMA2D_MspInit
-                0x08003ee0       0x14 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                0x08003ee0                HAL_DMA2D_MspInit
+                0x08005c80       0x14 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08005c80                HAL_DMA2D_MspInit
  .text.HAL_DMA2D_Start
-                0x08003ef4       0x68 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                0x08003ef4                HAL_DMA2D_Start
+                0x08005c94       0x68 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08005c94                HAL_DMA2D_Start
  .text.HAL_DMA2D_PollForTransfer
-                0x08003f5c      0x160 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                0x08003f5c                HAL_DMA2D_PollForTransfer
+                0x08005cfc      0x160 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08005cfc                HAL_DMA2D_PollForTransfer
  .text.HAL_DMA2D_ConfigLayer
-                0x080040bc      0x1b8 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                0x080040bc                HAL_DMA2D_ConfigLayer
+                0x08005e5c      0x1b8 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08005e5c                HAL_DMA2D_ConfigLayer
  .text.DMA2D_SetConfig
-                0x08004274      0x144 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x08006014      0x144 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
  .text.HAL_GPIO_Init
-                0x080043b8      0x34c HAL_Driver/Src/stm32f7xx_hal_gpio.o
-                0x080043b8                HAL_GPIO_Init
+                0x08006158      0x34c HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                0x08006158                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x080064a4       0x30 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                0x080064a4                HAL_GPIO_ReadPin
  .text.HAL_GPIO_WritePin
-                0x08004704       0x30 HAL_Driver/Src/stm32f7xx_hal_gpio.o
-                0x08004704                HAL_GPIO_WritePin
+                0x080064d4       0x30 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                0x080064d4                HAL_GPIO_WritePin
+ .text.HAL_I2C_Init
+                0x08006504      0x108 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x08006504                HAL_I2C_Init
+ .text.HAL_I2C_DeInit
+                0x0800660c       0x50 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x0800660c                HAL_I2C_DeInit
+ .text.HAL_I2C_MspInit
+                0x0800665c       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x0800665c                HAL_I2C_MspInit
+ .text.HAL_I2C_MspDeInit
+                0x08006670       0x14 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x08006670                HAL_I2C_MspDeInit
+ .text.HAL_I2C_Mem_Write
+                0x08006684      0x1d4 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x08006684                HAL_I2C_Mem_Write
+ .text.HAL_I2C_Mem_Read
+                0x08006858      0x1d0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x08006858                HAL_I2C_Mem_Read
+ .text.HAL_I2C_GetState
+                0x08006a28       0x1c HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                0x08006a28                HAL_I2C_GetState
+ .text.I2C_RequestMemoryWrite
+                0x08006a44       0xb8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_RequestMemoryRead
+                0x08006afc       0xb4 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x08006bb0       0xb8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_WaitOnTXISFlagUntilTimeout
+                0x08006c68       0x7c HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_WaitOnSTOPFlagUntilTimeout
+                0x08006ce4       0x78 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_IsAcknowledgeFailed
+                0x08006d5c       0xf0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .text.I2C_TransferConfig
+                0x08006e4c       0x5c HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .text.HAL_LTDC_Init
-                0x08004734      0x1b8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
-                0x08004734                HAL_LTDC_Init
+                0x08006ea8      0x1b8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x08006ea8                HAL_LTDC_Init
  .text.HAL_LTDC_MspInit
-                0x080048ec       0x14 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
-                0x080048ec                HAL_LTDC_MspInit
+                0x08007060       0x14 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x08007060                HAL_LTDC_MspInit
  .text.HAL_LTDC_ConfigLayer
-                0x08004900       0x7c HAL_Driver/Src/stm32f7xx_hal_ltdc.o
-                0x08004900                HAL_LTDC_ConfigLayer
+                0x08007074       0x7c HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x08007074                HAL_LTDC_ConfigLayer
  .text.HAL_LTDC_GetState
-                0x0800497c       0x1c HAL_Driver/Src/stm32f7xx_hal_ltdc.o
-                0x0800497c                HAL_LTDC_GetState
+                0x080070f0       0x1c HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x080070f0                HAL_LTDC_GetState
  .text.LTDC_SetConfig
-                0x08004998      0x350 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x0800710c      0x350 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
  .text.HAL_MspInit
-                0x08004ce8        0xc HAL_Driver/Src/stm32f7xx_hal_msp_template.o
-                0x08004ce8                HAL_MspInit
+                0x0800745c        0xc HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+                0x0800745c                HAL_MspInit
  .text.HAL_PWREx_EnableOverDrive
-                0x08004cf4       0x9c HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
-                0x08004cf4                HAL_PWREx_EnableOverDrive
+                0x08007468       0x9c HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+                0x08007468                HAL_PWREx_EnableOverDrive
  .text.HAL_RCC_OscConfig
-                0x08004d90      0x5ac HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                0x08004d90                HAL_RCC_OscConfig
+                0x08007504      0x5ac HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x08007504                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x0800533c      0x2c8 HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                0x0800533c                HAL_RCC_ClockConfig
+                0x08007ab0      0x2c8 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x08007ab0                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08005604       0xfc HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                0x08005604                HAL_RCC_GetSysClockFreq
+                0x08007d78       0xfc HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x08007d78                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08005700       0x50 HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                0x08005700                HAL_RCC_GetHCLKFreq
+                0x08007e74       0x50 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x08007e74                HAL_RCC_GetHCLKFreq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08005750      0x8d4 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
-                0x08005750                HAL_RCCEx_PeriphCLKConfig
+                0x08007ec4      0x8d4 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+                0x08007ec4                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_SDRAM_Init
-                0x08006024       0x6c HAL_Driver/Src/stm32f7xx_hal_sdram.o
-                0x08006024                HAL_SDRAM_Init
+                0x08008798       0x6c HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x08008798                HAL_SDRAM_Init
  .text.HAL_SDRAM_MspInit
-                0x08006090       0x14 HAL_Driver/Src/stm32f7xx_hal_sdram.o
-                0x08006090                HAL_SDRAM_MspInit
+                0x08008804       0x14 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x08008804                HAL_SDRAM_MspInit
  .text.HAL_SDRAM_SendCommand
-                0x080060a4       0x58 HAL_Driver/Src/stm32f7xx_hal_sdram.o
-                0x080060a4                HAL_SDRAM_SendCommand
+                0x08008818       0x58 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x08008818                HAL_SDRAM_SendCommand
  .text.HAL_SDRAM_ProgramRefreshRate
-                0x080060fc       0x40 HAL_Driver/Src/stm32f7xx_hal_sdram.o
-                0x080060fc                HAL_SDRAM_ProgramRefreshRate
+                0x08008870       0x40 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x08008870                HAL_SDRAM_ProgramRefreshRate
  .text.FMC_SDRAM_Init
-                0x0800613c       0xe4 HAL_Driver/Src/stm32f7xx_ll_fmc.o
-                0x0800613c                FMC_SDRAM_Init
+                0x080088b0       0xe4 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x080088b0                FMC_SDRAM_Init
  .text.FMC_SDRAM_Timing_Init
-                0x08006220       0xfc HAL_Driver/Src/stm32f7xx_ll_fmc.o
-                0x08006220                FMC_SDRAM_Timing_Init
+                0x08008994       0xfc HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x08008994                FMC_SDRAM_Timing_Init
  .text.FMC_SDRAM_SendCommand
-                0x0800631c       0x7c HAL_Driver/Src/stm32f7xx_ll_fmc.o
-                0x0800631c                FMC_SDRAM_SendCommand
+                0x08008a90       0x7c HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x08008a90                FMC_SDRAM_SendCommand
  .text.FMC_SDRAM_ProgramRefreshRate
-                0x08006398       0x28 HAL_Driver/Src/stm32f7xx_ll_fmc.o
-                0x08006398                FMC_SDRAM_ProgramRefreshRate
- .text.__errno  0x080063c0        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
-                0x080063c0                __errno
+                0x08008b0c       0x28 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x08008b0c                FMC_SDRAM_ProgramRefreshRate
+ .text.__errno  0x08008b34        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
+                0x08008b34                __errno
  .text.__libc_init_array
-                0x080063cc       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
-                0x080063cc                __libc_init_array
- .text.memset   0x0800641c       0xa0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
-                0x0800641c                memset
- .text.sprintf  0x080064bc       0x4c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
-                0x080064bc                sprintf
+                0x08008b40       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
+                0x08008b40                __libc_init_array
+ .text.memset   0x08008b90       0xa0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
+                0x08008b90                memset
+ .text.sprintf  0x08008c30       0x4c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
+                0x08008c30                sprintf
+ *fill*         0x08008c7c        0x4 
  .text._svfprintf_r
-                0x08006508     0x14e0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
-                0x08006508                _svfprintf_r
+                0x08008c80     0x14e0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+                0x08008c80                _svfprintf_r
  .text.startup.register_fini
-                0x080079e8       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x080079fc        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
-                0x080079fc                atexit
- .text.quorem   0x08007a08      0x140 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
- .text._dtoa_r  0x08007b48      0xec8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
-                0x08007b48                _dtoa_r
+                0x0800a160       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0800a174        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
+                0x0800a174                atexit
+ .text.quorem   0x0800a180      0x140 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x0800a2c0      0xec8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
+                0x0800a2c0                _dtoa_r
  .text.__libc_fini_array
-                0x08008a10       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
-                0x08008a10                __libc_fini_array
+                0x0800b188       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
+                0x0800b188                __libc_fini_array
  .text._localeconv_r
-                0x08008a3c        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
-                0x08008a3c                _localeconv_r
+                0x0800b1b4        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
+                0x0800b1b4                _localeconv_r
  .text._malloc_r
-                0x08008a44      0x558 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x08008a44                _malloc_r
- .text.memchr   0x08008f9c       0x90 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
-                0x08008f9c                memchr
+                0x0800b1bc      0x558 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x0800b1bc                _malloc_r
+ .text.memchr   0x0800b714       0x90 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
+                0x0800b714                memchr
  .text.__malloc_lock
-                0x0800902c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
-                0x0800902c                __malloc_lock
+                0x0800b7a4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
+                0x0800b7a4                __malloc_lock
  .text.__malloc_unlock
-                0x08009030        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
-                0x08009030                __malloc_unlock
- .text._Balloc  0x08009034       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x08009034                _Balloc
- .text._Bfree   0x08009084       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x08009084                _Bfree
+                0x0800b7a8        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
+                0x0800b7a8                __malloc_unlock
+ .text._Balloc  0x0800b7ac       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b7ac                _Balloc
+ .text._Bfree   0x0800b7fc       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b7fc                _Bfree
  .text.__multadd
-                0x08009098       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x08009098                __multadd
+                0x0800b810       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b810                __multadd
  .text.__hi0bits
-                0x0800911c       0x44 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x0800911c                __hi0bits
+                0x0800b894       0x44 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b894                __hi0bits
  .text.__lo0bits
-                0x08009160       0x64 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x08009160                __lo0bits
- .text.__i2b    0x080091c4       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x080091c4                __i2b
+                0x0800b8d8       0x64 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b8d8                __lo0bits
+ .text.__i2b    0x0800b93c       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b93c                __i2b
  .text.__multiply
-                0x080091d8      0x144 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x080091d8                __multiply
+                0x0800b950      0x144 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800b950                __multiply
  .text.__pow5mult
-                0x0800931c       0xa0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x0800931c                __pow5mult
+                0x0800ba94       0xa0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800ba94                __pow5mult
  .text.__lshift
-                0x080093bc       0xb4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x080093bc                __lshift
- .text.__mcmp   0x08009470       0x48 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x08009470                __mcmp
- .text.__mdiff  0x080094b8       0xe4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x080094b8                __mdiff
- .text.__d2b    0x0800959c       0xbc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x0800959c                __d2b
+                0x0800bb34       0xb4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800bb34                __lshift
+ .text.__mcmp   0x0800bbe8       0x48 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800bbe8                __mcmp
+ .text.__mdiff  0x0800bc30       0xe4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800bc30                __mdiff
+ .text.__d2b    0x0800bd14       0xbc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x0800bd14                __d2b
  .text.__fpclassifyd
-                0x08009658       0x4c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
-                0x08009658                __fpclassifyd
- .text._sbrk_r  0x080096a4       0x24 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
-                0x080096a4                _sbrk_r
- .text.strlen   0x080096c8       0x5c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
-                0x080096c8                strlen
+                0x0800bdd0       0x4c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
+                0x0800bdd0                __fpclassifyd
+ .text._sbrk_r  0x0800be1c       0x24 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
+                0x0800be1c                _sbrk_r
+ .text.strlen   0x0800be40       0x5c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
+                0x0800be40                strlen
  .text.__ssprint_r
-                0x08009724      0x110 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
-                0x08009724                __ssprint_r
+                0x0800be9c      0x110 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
+                0x0800be9c                __ssprint_r
  .text.__register_exitproc
-                0x08009834       0xa8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
-                0x08009834                __register_exitproc
+                0x0800bfac       0xa8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
+                0x0800bfac                __register_exitproc
  .text._calloc_r
-                0x080098dc       0x60 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
-                0x080098dc                _calloc_r
+                0x0800c054       0x60 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
+                0x0800c054                _calloc_r
  .text._malloc_trim_r
-                0x0800993c       0x9c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
-                0x0800993c                _malloc_trim_r
- .text._free_r  0x080099d8      0x1b0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
-                0x080099d8                _free_r
- .text.memmove  0x08009b88       0xc4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
-                0x08009b88                memmove
+                0x0800c0b4       0x9c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
+                0x0800c0b4                _malloc_trim_r
+ .text._free_r  0x0800c150      0x1b0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
+                0x0800c150                _free_r
+ .text.memmove  0x0800c300       0xc4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
+                0x0800c300                memmove
  .text._realloc_r
-                0x08009c4c      0x3f0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
-                0x08009c4c                _realloc_r
+                0x0800c3c4      0x3f0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
+                0x0800c3c4                _realloc_r
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800a03c        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
+ .eh_frame      0x0800c7b4        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
  *(.init)
- .init          0x0800a03c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crti.o
-                0x0800a03c                _init
- .init          0x0800a040        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
+ .init          0x0800c7b4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crti.o
+                0x0800c7b4                _init
+ .init          0x0800c7b8        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
  *(.fini)
- .fini          0x0800a048        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crti.o
-                0x0800a048                _fini
- .fini          0x0800a04c        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
-                0x0800a054                . = ALIGN (0x4)
-                0x0800a054                _etext = .
+ .fini          0x0800c7c0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crti.o
+                0x0800c7c0                _fini
+ .fini          0x0800c7c4        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
+                0x0800c7cc                . = ALIGN (0x4)
+                0x0800c7cc                _etext = .
 
-.vfp11_veneer   0x0800a054        0x0
+.vfp11_veneer   0x0800c7cc        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x0800a054        0x0
+.v4_bx          0x0800c7cc        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x0800a054        0x0
+.iplt           0x0800c7cc        0x0
  .iplt          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
 
-.rodata         0x0800a058     0x3f18
-                0x0800a058                . = ALIGN (0x4)
+.rodata         0x0800c7d0     0x4068
+                0x0800c7d0                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0800a058       0x80 src/main.o
- .rodata        0x0800a0d8       0x24 Utilities/STM32746G-Discovery/stm32746g_discovery.o
-                0x0800a0d8                GPIO_PIN
-                0x0800a0dc                BUTTON_PIN
-                0x0800a0e4                BUTTON_IRQn
-                0x0800a0ec                COM_TX_PIN
-                0x0800a0f0                COM_RX_PIN
-                0x0800a0f4                COM_TX_AF
-                0x0800a0f8                COM_RX_AF
- .rodata        0x0800a0fc     0x3cdc Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
-                0x0800a0fc                Font24_Table
-                0x0800bbb4                Font20_Table
-                0x0800ca8c                Font16_Table
-                0x0800d66c                Font12_Table
-                0x0800dae0                Font8_Table
- .rodata        0x0800ddd8       0x10 HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                0x0800ddd8                APBAHBPrescTable
+ .rodata        0x0800c7d0       0xa0 src/main.o
+ .rodata        0x0800c870      0x130 src/touchscreen.o
+ .rodata        0x0800c9a0       0x24 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x0800c9a0                GPIO_PIN
+                0x0800c9a4                BUTTON_PIN
+                0x0800c9ac                BUTTON_IRQn
+                0x0800c9b4                COM_TX_PIN
+                0x0800c9b8                COM_RX_PIN
+                0x0800c9bc                COM_TX_AF
+                0x0800c9c0                COM_RX_AF
+ .rodata        0x0800c9c4     0x3cdc Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x0800c9c4                Font24_Table
+                0x0800e47c                Font20_Table
+                0x0800f354                Font16_Table
+                0x0800ff34                Font12_Table
+                0x080103a8                Font8_Table
+ .rodata        0x080106a0       0x10 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x080106a0                APBAHBPrescTable
  *(.rodata*)
  .rodata.str1.4
-                0x0800dde8        0x2 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
+                0x080106b0        0x2 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
                                   0x4 (size before relaxing)
- *fill*         0x0800ddea        0x2 
+ *fill*         0x080106b2        0x2 
  .rodata._global_impure_ptr
-                0x0800ddec        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
-                0x0800ddec                _global_impure_ptr
+                0x080106b4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
+                0x080106b4                _global_impure_ptr
  .rodata.zeroes.6916
-                0x0800ddf0       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+                0x080106b8       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
  .rodata.str1.4
-                0x0800de00       0x42 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+                0x080106c8       0x42 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
                                  0x44 (size before relaxing)
- *fill*         0x0800de42        0x2 
+ *fill*         0x0801070a        0x2 
  .rodata.blanks.6915
-                0x0800de44       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+                0x0801070c       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
  .rodata.str1.4
-                0x0800de54       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
+                0x0801071c       0x10 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
                                  0x14 (size before relaxing)
  .rodata.str1.4
-                0x0800de64        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
+                0x0801072c        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
                                  0x14 (size before relaxing)
  .rodata.p05.5296
-                0x0800de70        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
- *fill*         0x0800de7c        0x4 
+                0x08010738        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+ *fill*         0x08010744        0x4 
  .rodata.__mprec_tens
-                0x0800de80       0xc8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x0800de80                __mprec_tens
+                0x08010748       0xc8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x08010748                __mprec_tens
  .rodata.__mprec_bigtens
-                0x0800df48       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
-                0x0800df48                __mprec_bigtens
-                0x0800df70                . = ALIGN (0x4)
+                0x08010810       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x08010810                __mprec_bigtens
+                0x08010838                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0800df70        0x8
-                0x0800df70                __exidx_start = .
+.ARM            0x08010838        0x8
+                0x08010838                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x0800df70        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
- .ARM.exidx     0x0800df78        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)
+ .ARM.exidx     0x08010838        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x08010840        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)
                                   0x8 (size before relaxing)
-                0x0800df78                __exidx_end = .
+                0x08010840                __exidx_end = .
 
-.rel.dyn        0x0800df78        0x0
+.rel.dyn        0x08010840        0x0
  .rel.iplt      0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
 
-.preinit_array  0x0800df78        0x0
-                0x0800df78                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x08010840        0x0
+                0x08010840                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x0800df78                PROVIDE (__preinit_array_end, .)
+                0x08010840                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x0800df78        0x8
-                0x0800df78                PROVIDE (__init_array_start, .)
+.init_array     0x08010840        0x8
+                0x08010840                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x0800df78        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
+                0x08010840        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x0800df7c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
-                0x0800df80                PROVIDE (__init_array_end, .)
+ .init_array    0x08010844        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
+                0x08010848                PROVIDE (__init_array_end, .)
 
-.fini_array     0x0800df80        0x4
-                0x0800df80                PROVIDE (__fini_array_start, .)
+.fini_array     0x08010848        0x4
+                0x08010848                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0800df80        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
-                0x0800df84                PROVIDE (__fini_array_end, .)
-                0x0800df84                _sidata = LOADADDR (.data)
+ .fini_array    0x08010848        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
+                0x0801084c                PROVIDE (__fini_array_end, .)
+                0x0801084c                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x8cc load address 0x0800df84
+.data           0x20000000      0x8f4 load address 0x0801084c
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -20603,74 +20835,82 @@ LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.
                 0x20000044                Font12
                 0x2000004c                Font8
  .data          0x20000054        0x2 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- *(.data*)
  *fill*         0x20000056        0x2 
+ .data          0x20000058       0x28 Utilities/Components/ft5336/ft5336.o
+                0x20000058                ft5336_ts_drv
+ *(.data*)
  .data.impure_data
-                0x20000058      0x428 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
+                0x20000080      0x428 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
  .data._impure_ptr
-                0x20000480        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
-                0x20000480                _impure_ptr
- .data.lconv    0x20000484       0x38 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
+                0x200004a8        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
+                0x200004a8                _impure_ptr
+ .data.lconv    0x200004ac       0x38 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
  .data.__malloc_av_
-                0x200004bc      0x408 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x200004bc                __malloc_av_
+                0x200004e4      0x408 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x200004e4                __malloc_av_
  .data.__malloc_trim_threshold
-                0x200008c4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x200008c4                __malloc_trim_threshold
+                0x200008ec        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x200008ec                __malloc_trim_threshold
  .data.__malloc_sbrk_base
-                0x200008c8        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x200008c8                __malloc_sbrk_base
-                0x200008cc                . = ALIGN (0x4)
-                0x200008cc                _edata = .
+                0x200008f0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x200008f0                __malloc_sbrk_base
+                0x200008f4                . = ALIGN (0x4)
+                0x200008f4                _edata = .
 
-.jcr            0x200008cc        0x0 load address 0x0800e850
- .jcr           0x200008cc        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
+.jcr            0x200008f4        0x0 load address 0x08011140
+ .jcr           0x200008f4        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
 
-.igot.plt       0x200008cc        0x0 load address 0x0800e850
+.igot.plt       0x200008f4        0x0 load address 0x08011140
  .igot.plt      0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
-                0x200008cc                . = ALIGN (0x4)
+                0x200008f4                . = ALIGN (0x4)
 
-.bss            0x200008cc      0x2e8 load address 0x0800e850
-                0x200008cc                _sbss = .
-                0x200008cc                __bss_start__ = _sbss
+.bss            0x200008f4      0x3cc load address 0x08011140
+                0x200008f4                _sbss = .
+                0x200008f4                __bss_start__ = _sbss
  *(.bss)
- .bss           0x200008cc       0x1c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
- .bss           0x200008e8        0x8 src/syscalls.o
-                0x200008e8                __env
- .bss           0x200008f0      0x188 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .bss           0x20000a78      0x100 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .bss           0x20000b78        0x4 HAL_Driver/Src/stm32f7xx_hal.o
+ .bss           0x200008f4       0x1c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtbegin.o
+ .bss           0x20000910        0x1 src/main.o
+                0x20000910                numPush
+ *fill*         0x20000911        0x3 
+ .bss           0x20000914        0x8 src/syscalls.o
+                0x20000914                __env
+ .bss           0x2000091c       0x2c src/touchscreen.o
+ .bss           0x20000948       0x78 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .bss           0x200009c0      0x188 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .bss           0x20000b48      0x100 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .bss           0x20000c48       0x34 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .bss           0x20000c7c        0x8 Utilities/Components/ft5336/ft5336.o
+ .bss           0x20000c84        0x4 HAL_Driver/Src/stm32f7xx_hal.o
  *(.bss*)
  .bss.__malloc_max_total_mem
-                0x20000b7c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x20000b7c                __malloc_max_total_mem
+                0x20000c88        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x20000c88                __malloc_max_total_mem
  .bss.__malloc_max_sbrked_mem
-                0x20000b80        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x20000b80                __malloc_max_sbrked_mem
+                0x20000c8c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x20000c8c                __malloc_max_sbrked_mem
  .bss.__malloc_top_pad
-                0x20000b84        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x20000b84                __malloc_top_pad
+                0x20000c90        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x20000c90                __malloc_top_pad
  .bss.__malloc_current_mallinfo
-                0x20000b88       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
-                0x20000b88                __malloc_current_mallinfo
+                0x20000c94       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x20000c94                __malloc_current_mallinfo
  *(COMMON)
- COMMON         0x20000bb0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
-                0x20000bb0                errno
-                0x20000bb4                . = ALIGN (0x4)
-                0x20000bb4                _ebss = .
-                0x20000bb4                __bss_end__ = _ebss
+ COMMON         0x20000cbc        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
+                0x20000cbc                errno
+                0x20000cc0                . = ALIGN (0x4)
+                0x20000cc0                _ebss = .
+                0x20000cc0                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000bb4      0x604 load address 0x0800e850
-                0x20000bb8                . = ALIGN (0x8)
- *fill*         0x20000bb4        0x4 
-                0x20000bb8                PROVIDE (end, .)
-                0x20000bb8                PROVIDE (_end, .)
-                0x20000db8                . = (. + _Min_Heap_Size)
- *fill*         0x20000bb8      0x200 
-                0x200011b8                . = (. + _Min_Stack_Size)
- *fill*         0x20000db8      0x400 
-                0x200011b8                . = ALIGN (0x8)
+                0x20000cc0      0x600 load address 0x08011140
+                0x20000cc0                . = ALIGN (0x8)
+                0x20000cc0                PROVIDE (end, .)
+                0x20000cc0                PROVIDE (_end, .)
+                0x20000ec0                . = (. + _Min_Heap_Size)
+ *fill*         0x20000cc0      0x200 
+                0x200012c0                . = (. + _Min_Stack_Size)
+ *fill*         0x20000ec0      0x400 
+                0x200012c0                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -20695,425 +20935,472 @@ LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.
  .ARM.attributes
                 0x0000012c       0x39 src/system_stm32f7xx.o
  .ARM.attributes
-                0x00000165       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x00000165       0x39 src/touchscreen.o
  .ARM.attributes
-                0x0000019e       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x0000019e       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .ARM.attributes
-                0x000001d7       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+                0x000001d7       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .ARM.attributes
-                0x00000210       0x39 HAL_Driver/Src/stm32f7xx_hal.o
+                0x00000210       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
  .ARM.attributes
-                0x00000249       0x39 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x00000249       0x39 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .ARM.attributes
-                0x00000282       0x39 HAL_Driver/Src/stm32f7xx_hal_dma.o
+                0x00000282       0x39 Utilities/Components/ft5336/ft5336.o
  .ARM.attributes
-                0x000002bb       0x39 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x000002bb       0x39 HAL_Driver/Src/stm32f7xx_hal.o
  .ARM.attributes
-                0x000002f4       0x39 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                0x000002f4       0x39 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .ARM.attributes
-                0x0000032d       0x39 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x0000032d       0x39 HAL_Driver/Src/stm32f7xx_hal_dma.o
  .ARM.attributes
-                0x00000366       0x39 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+                0x00000366       0x39 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
  .ARM.attributes
-                0x0000039f       0x39 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+                0x0000039f       0x39 HAL_Driver/Src/stm32f7xx_hal_gpio.o
  .ARM.attributes
-                0x000003d8       0x39 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x000003d8       0x39 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .ARM.attributes
-                0x00000411       0x39 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+                0x00000411       0x39 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
  .ARM.attributes
-                0x0000044a       0x39 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x0000044a       0x39 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
  .ARM.attributes
-                0x00000483       0x39 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x00000483       0x39 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
  .ARM.attributes
-                0x000004bc       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
+                0x000004bc       0x39 HAL_Driver/Src/stm32f7xx_hal_rcc.o
  .ARM.attributes
-                0x000004f5       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
+                0x000004f5       0x39 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
  .ARM.attributes
-                0x0000052e       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
+                0x0000052e       0x39 HAL_Driver/Src/stm32f7xx_hal_sdram.o
  .ARM.attributes
-                0x00000567       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
+                0x00000567       0x39 HAL_Driver/Src/stm32f7xx_ll_fmc.o
  .ARM.attributes
-                0x000005a0       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
+                0x000005a0       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
  .ARM.attributes
-                0x000005d9       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+                0x000005d9       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000612       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
+                0x00000612       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
  .ARM.attributes
-                0x0000064b       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
+                0x0000064b       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000684       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
+                0x00000684       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
  .ARM.attributes
-                0x000006bd       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
+                0x000006bd       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
  .ARM.attributes
-                0x000006f6       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
+                0x000006f6       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
  .ARM.attributes
-                0x0000072f       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+                0x0000072f       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
  .ARM.attributes
-                0x00000768       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
+                0x00000768       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
  .ARM.attributes
-                0x000007a1       0x25 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memcpy.o)
+                0x000007a1       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
  .ARM.attributes
-                0x000007c6       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
+                0x000007da       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
  .ARM.attributes
-                0x000007ff       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+                0x00000813       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
  .ARM.attributes
-                0x00000838       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
+                0x0000084c       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
  .ARM.attributes
-                0x00000871       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
+                0x00000885       0x25 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memcpy.o)
  .ARM.attributes
-                0x000008aa       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
+                0x000008aa       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
  .ARM.attributes
-                0x000008e3       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
+                0x000008e3       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
  .ARM.attributes
-                0x0000091c       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
+                0x0000091c       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
  .ARM.attributes
-                0x00000955       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
+                0x00000955       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
  .ARM.attributes
-                0x0000098e       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
+                0x0000098e       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
  .ARM.attributes
-                0x000009c7       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
+                0x000009c7       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
  .ARM.attributes
-                0x00000a00       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
+                0x00000a00       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
  .ARM.attributes
-                0x00000a39       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
+                0x00000a39       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
  .ARM.attributes
-                0x00000a72       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_addsubdf3.o)
+                0x00000a72       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
  .ARM.attributes
-                0x00000a99       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_muldivdf3.o)
+                0x00000aab       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
  .ARM.attributes
-                0x00000ac0       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_cmpdf2.o)
+                0x00000ae4       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
  .ARM.attributes
-                0x00000ae7       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_fixdfsi.o)
+                0x00000b1d       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
  .ARM.attributes
-                0x00000b0e       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_aeabi_uldivmod.o)
+                0x00000b56       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes
-                0x00000b35       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(bpabi.o)
+                0x00000b7d       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_muldivdf3.o)
  .ARM.attributes
-                0x00000b6e       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_dvmd_tls.o)
+                0x00000ba4       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_cmpdf2.o)
  .ARM.attributes
-                0x00000b95       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
+                0x00000bcb       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_arm_fixdfsi.o)
  .ARM.attributes
-                0x00000bce       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)
+                0x00000bf2       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x00000c07       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
+                0x00000c19       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000c52       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000c79       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000cb2       0x39 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000ceb       0x27 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16/crtn.o
 OUTPUT(Print_LCD.elf elf32-littlearm)
 
-.debug_line     0x00000000    0x13658
+.debug_line     0x00000000    0x16e60
  .debug_line    0x00000000       0x7f startup/startup_stm32f746xx.o
- .debug_line    0x0000007f      0xd6a src/main.o
- .debug_line    0x00000de9      0xb02 src/stm32f7xx_it.o
- .debug_line    0x000018eb      0x526 src/syscalls.o
- .debug_line    0x00001e11      0xae7 src/system_stm32f7xx.o
- .debug_line    0x000028f8      0xdfd Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_line    0x000036f5     0x1209 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_line    0x000048fe      0xc2b Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_line    0x00005529      0xc79 HAL_Driver/Src/stm32f7xx_hal.o
- .debug_line    0x000061a2      0xda5 HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_line    0x00006f47     0x4d9a HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_line    0x0000bce1      0xe4e HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_line    0x0000cb2f      0xcd5 HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_line    0x0000d804      0xff3 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_line    0x0000e7f7      0xb14 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_line    0x0000f30b      0xc19 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_line    0x0000ff24      0xe0c HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_line    0x00010d30      0xd78 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_line    0x00011aa8      0xe2a HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_line    0x000128d2      0xd86 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_line    0x0000007f      0xe77 src/main.o
+ .debug_line    0x00000ef6      0xb02 src/stm32f7xx_it.o
+ .debug_line    0x000019f8      0x526 src/syscalls.o
+ .debug_line    0x00001f1e      0xae7 src/system_stm32f7xx.o
+ .debug_line    0x00002a05      0xdd0 src/touchscreen.o
+ .debug_line    0x000037d5      0xdfd Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_line    0x000045d2     0x1209 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_line    0x000057db      0xc2b Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_line    0x00006406      0xcee Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_line    0x000070f4      0x497 Utilities/Components/ft5336/ft5336.o
+ .debug_line    0x0000758b      0xc79 HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_line    0x00008204      0xda5 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_line    0x00008fa9     0x4d9a HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_line    0x0000dd43      0xe4e HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_line    0x0000eb91      0xcd5 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_line    0x0000f866     0x17a6 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_line    0x0001100c      0xff3 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_line    0x00011fff      0xb14 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_line    0x00012b13      0xc19 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_line    0x0001372c      0xe0c HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_line    0x00014538      0xd78 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_line    0x000152b0      0xe2a HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_line    0x000160da      0xd86 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_info     0x00000000     0xd3ef
+.debug_info     0x00000000     0xfb1d
  .debug_info    0x00000000       0x6e startup/startup_stm32f746xx.o
- .debug_info    0x0000006e      0xba4 src/main.o
- .debug_info    0x00000c12       0xb6 src/stm32f7xx_it.o
- .debug_info    0x00000cc8      0x660 src/syscalls.o
- .debug_info    0x00001328      0x6a2 src/system_stm32f7xx.o
- .debug_info    0x000019ca     0x185e Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_info    0x00003228     0x1ff8 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_info    0x00005220      0xe8e Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_info    0x000060ae      0x8d1 HAL_Driver/Src/stm32f7xx_hal.o
- .debug_info    0x0000697f      0xf4e HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_info    0x000078cd      0x63a HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_info    0x00007f07      0xa29 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_info    0x00008930      0x723 HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_info    0x00009053      0xbc7 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_info    0x00009c1a       0xe9 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_info    0x00009d03      0x8eb HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_info    0x0000a5ee      0xb42 HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_info    0x0000b130      0xab4 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_info    0x0000bbe4      0xbe0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_info    0x0000c7c4      0xc2b HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_info    0x0000006e      0xc57 src/main.o
+ .debug_info    0x00000cc5       0xb6 src/stm32f7xx_it.o
+ .debug_info    0x00000d7b      0x660 src/syscalls.o
+ .debug_info    0x000013db      0x6a2 src/system_stm32f7xx.o
+ .debug_info    0x00001a7d      0x34b src/touchscreen.o
+ .debug_info    0x00001dc8     0x185e Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_info    0x00003626     0x1ff8 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_info    0x0000561e      0xe8e Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_info    0x000064ac      0x914 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_info    0x00006dc0      0x58d Utilities/Components/ft5336/ft5336.o
+ .debug_info    0x0000734d      0x8d1 HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_info    0x00007c1e      0xf4e HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_info    0x00008b6c      0x63a HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_info    0x000091a6      0xa29 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_info    0x00009bcf      0x723 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_info    0x0000a2f2     0x148f HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_info    0x0000b781      0xbc7 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_info    0x0000c348       0xe9 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_info    0x0000c431      0x8eb HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_info    0x0000cd1c      0xb42 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_info    0x0000d85e      0xab4 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_info    0x0000e312      0xbe0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_info    0x0000eef2      0xc2b HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_abbrev   0x00000000     0x2197
+.debug_abbrev   0x00000000     0x28ad
  .debug_abbrev  0x00000000       0x12 startup/startup_stm32f746xx.o
- .debug_abbrev  0x00000012      0x1f2 src/main.o
- .debug_abbrev  0x00000204       0x6a src/stm32f7xx_it.o
- .debug_abbrev  0x0000026e      0x174 src/syscalls.o
- .debug_abbrev  0x000003e2      0x120 src/system_stm32f7xx.o
- .debug_abbrev  0x00000502      0x26d Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_abbrev  0x0000076f      0x2b0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_abbrev  0x00000a1f      0x1ef Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_abbrev  0x00000c0e      0x19e HAL_Driver/Src/stm32f7xx_hal.o
- .debug_abbrev  0x00000dac      0x2d0 HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_abbrev  0x0000107c      0x1c5 HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_abbrev  0x00001241      0x1f9 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_abbrev  0x0000143a      0x1ad HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_abbrev  0x000015e7      0x1f8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_abbrev  0x000017df       0x6a HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_abbrev  0x00001849      0x1a7 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_abbrev  0x000019f0      0x297 HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_abbrev  0x00001c87      0x1e1 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_abbrev  0x00001e68      0x1db HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_abbrev  0x00002043      0x154 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_abbrev  0x00000012      0x226 src/main.o
+ .debug_abbrev  0x00000238       0x6a src/stm32f7xx_it.o
+ .debug_abbrev  0x000002a2      0x174 src/syscalls.o
+ .debug_abbrev  0x00000416      0x120 src/system_stm32f7xx.o
+ .debug_abbrev  0x00000536      0x15a src/touchscreen.o
+ .debug_abbrev  0x00000690      0x26d Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_abbrev  0x000008fd      0x2b0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_abbrev  0x00000bad      0x1ef Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_abbrev  0x00000d9c      0x1fb Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_abbrev  0x00000f97      0x1c5 Utilities/Components/ft5336/ft5336.o
+ .debug_abbrev  0x0000115c      0x19e HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_abbrev  0x000012fa      0x2d0 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_abbrev  0x000015ca      0x1c5 HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_abbrev  0x0000178f      0x1f9 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_abbrev  0x00001988      0x1ad HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_abbrev  0x00001b35      0x1c8 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_abbrev  0x00001cfd      0x1f8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_abbrev  0x00001ef5       0x6a HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_abbrev  0x00001f5f      0x1a7 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_abbrev  0x00002106      0x297 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_abbrev  0x0000239d      0x1e1 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_abbrev  0x0000257e      0x1db HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_abbrev  0x00002759      0x154 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_aranges  0x00000000      0xbf0
+.debug_aranges  0x00000000      0xed0
  .debug_aranges
                 0x00000000       0x28 startup/startup_stm32f746xx.o
  .debug_aranges
-                0x00000028       0x58 src/main.o
+                0x00000028       0x60 src/main.o
  .debug_aranges
-                0x00000080       0x20 src/stm32f7xx_it.o
+                0x00000088       0x20 src/stm32f7xx_it.o
  .debug_aranges
-                0x000000a0       0xb0 src/syscalls.o
+                0x000000a8       0xb0 src/syscalls.o
  .debug_aranges
-                0x00000150       0x28 src/system_stm32f7xx.o
+                0x00000158       0x28 src/system_stm32f7xx.o
  .debug_aranges
-                0x00000178      0x128 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+                0x00000180       0x30 src/touchscreen.o
  .debug_aranges
-                0x000002a0      0x1a0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+                0x000001b0      0x128 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .debug_aranges
-                0x00000440       0x70 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+                0x000002d8      0x1a0 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .debug_aranges
-                0x000004b0       0xd0 HAL_Driver/Src/stm32f7xx_hal.o
+                0x00000478       0x70 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
  .debug_aranges
-                0x00000580      0x108 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                0x000004e8       0x58 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
  .debug_aranges
-                0x00000688       0x68 HAL_Driver/Src/stm32f7xx_hal_dma.o
+                0x00000540       0x90 Utilities/Components/ft5336/ft5336.o
  .debug_aranges
-                0x000006f0       0xc0 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                0x000005d0       0xd0 HAL_Driver/Src/stm32f7xx_hal.o
  .debug_aranges
-                0x000007b0       0x58 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                0x000006a0      0x108 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .debug_aranges
-                0x00000808       0xe0 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                0x000007a8       0x68 HAL_Driver/Src/stm32f7xx_hal_dma.o
  .debug_aranges
-                0x000008e8       0x38 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+                0x00000810       0xc0 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
  .debug_aranges
-                0x00000920       0x80 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+                0x000008d0       0x58 HAL_Driver/Src/stm32f7xx_hal_gpio.o
  .debug_aranges
-                0x000009a0       0x88 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                0x00000928      0x1c0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .debug_aranges
-                0x00000a28       0x30 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+                0x00000ae8       0xe0 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
  .debug_aranges
-                0x00000a58       0xd0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                0x00000bc8       0x38 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
  .debug_aranges
-                0x00000b28       0xc8 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                0x00000c00       0x80 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_aranges
+                0x00000c80       0x88 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_aranges
+                0x00000d08       0x30 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_aranges
+                0x00000d38       0xd0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_aranges
+                0x00000e08       0xc8 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_ranges   0x00000000      0xab8
+.debug_ranges   0x00000000      0xd58
  .debug_ranges  0x00000000       0x20 startup/startup_stm32f746xx.o
- .debug_ranges  0x00000020       0x48 src/main.o
- .debug_ranges  0x00000068       0x10 src/stm32f7xx_it.o
- .debug_ranges  0x00000078       0xa0 src/syscalls.o
- .debug_ranges  0x00000118       0x18 src/system_stm32f7xx.o
- .debug_ranges  0x00000130      0x118 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_ranges  0x00000248      0x190 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_ranges  0x000003d8       0x60 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_ranges  0x00000438       0xc0 HAL_Driver/Src/stm32f7xx_hal.o
- .debug_ranges  0x000004f8       0xf8 HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_ranges  0x000005f0       0x58 HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_ranges  0x00000648       0xb0 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_ranges  0x000006f8       0x48 HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_ranges  0x00000740       0xd0 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_ranges  0x00000810       0x28 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_ranges  0x00000838       0x70 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_ranges  0x000008a8       0x78 HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_ranges  0x00000920       0x20 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_ranges  0x00000940       0xc0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_ranges  0x00000a00       0xb8 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_ranges  0x00000020       0x50 src/main.o
+ .debug_ranges  0x00000070       0x10 src/stm32f7xx_it.o
+ .debug_ranges  0x00000080       0xa0 src/syscalls.o
+ .debug_ranges  0x00000120       0x18 src/system_stm32f7xx.o
+ .debug_ranges  0x00000138       0x20 src/touchscreen.o
+ .debug_ranges  0x00000158      0x118 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_ranges  0x00000270      0x190 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_ranges  0x00000400       0x60 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_ranges  0x00000460       0x48 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_ranges  0x000004a8       0x80 Utilities/Components/ft5336/ft5336.o
+ .debug_ranges  0x00000528       0xc0 HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_ranges  0x000005e8       0xf8 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_ranges  0x000006e0       0x58 HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_ranges  0x00000738       0xb0 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_ranges  0x000007e8       0x48 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_ranges  0x00000830      0x1b0 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_ranges  0x000009e0       0xd0 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_ranges  0x00000ab0       0x28 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_ranges  0x00000ad8       0x70 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_ranges  0x00000b48       0x78 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_ranges  0x00000bc0       0x20 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_ranges  0x00000be0       0xc0 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_ranges  0x00000ca0       0xb8 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_macro    0x00000000    0x1f4e1
- .debug_macro   0x00000000      0x4c7 src/main.o
- .debug_macro   0x000004c7      0x892 src/main.o
- .debug_macro   0x00000d59       0x28 src/main.o
- .debug_macro   0x00000d81       0x3b src/main.o
- .debug_macro   0x00000dbc       0x3b src/main.o
- .debug_macro   0x00000df7       0x22 src/main.o
- .debug_macro   0x00000e19       0x44 src/main.o
- .debug_macro   0x00000e5d       0x1c src/main.o
- .debug_macro   0x00000e79      0x1f7 src/main.o
- .debug_macro   0x00001070       0x34 src/main.o
- .debug_macro   0x000010a4       0x26 src/main.o
- .debug_macro   0x000010ca     0x10a4 src/main.o
- .debug_macro   0x0000216e     0xa6d7 src/main.o
- .debug_macro   0x0000c845       0x43 src/main.o
- .debug_macro   0x0000c888      0x25a src/main.o
- .debug_macro   0x0000cae2     0x2c17 src/main.o
- .debug_macro   0x0000f6f9       0x58 src/main.o
- .debug_macro   0x0000f751       0x35 src/main.o
- .debug_macro   0x0000f786       0x9c src/main.o
- .debug_macro   0x0000f822       0x16 src/main.o
- .debug_macro   0x0000f838       0x97 src/main.o
- .debug_macro   0x0000f8cf      0x29d src/main.o
- .debug_macro   0x0000fb6c       0xef src/main.o
- .debug_macro   0x0000fc5b       0x10 src/main.o
- .debug_macro   0x0000fc6b       0x52 src/main.o
- .debug_macro   0x0000fcbd       0x16 src/main.o
- .debug_macro   0x0000fcd3       0x43 src/main.o
- .debug_macro   0x0000fd16      0x180 src/main.o
- .debug_macro   0x0000fe96       0x10 src/main.o
- .debug_macro   0x0000fea6       0x22 src/main.o
- .debug_macro   0x0000fec8       0xbd src/main.o
- .debug_macro   0x0000ff85       0x16 src/main.o
- .debug_macro   0x0000ff9b      0x196 src/main.o
- .debug_macro   0x00010131       0x57 src/main.o
- .debug_macro   0x00010188      0x5bb src/main.o
- .debug_macro   0x00010743     0x188a src/main.o
- .debug_macro   0x00011fcd       0xdd src/main.o
- .debug_macro   0x000120aa      0x11e src/main.o
- .debug_macro   0x000121c8      0x1f4 src/main.o
- .debug_macro   0x000123bc       0x27 src/main.o
- .debug_macro   0x000123e3      0x272 src/main.o
- .debug_macro   0x00012655       0x5f src/main.o
- .debug_macro   0x000126b4      0x241 src/main.o
- .debug_macro   0x000128f5      0x313 src/main.o
- .debug_macro   0x00012c08      0x14d src/main.o
- .debug_macro   0x00012d55       0xd6 src/main.o
- .debug_macro   0x00012e2b      0x360 src/main.o
- .debug_macro   0x0001318b      0x272 src/main.o
- .debug_macro   0x000133fd       0xab src/main.o
- .debug_macro   0x000134a8       0x4c src/main.o
- .debug_macro   0x000134f4       0x2e src/main.o
- .debug_macro   0x00013522      0x1f3 src/main.o
- .debug_macro   0x00013715       0xe6 src/main.o
- .debug_macro   0x000137fb       0xa1 src/main.o
- .debug_macro   0x0001389c       0x3c src/main.o
- .debug_macro   0x000138d8       0x6c src/main.o
- .debug_macro   0x00013944      0x1aa src/main.o
- .debug_macro   0x00013aee      0xda1 src/main.o
- .debug_macro   0x0001488f      0x111 src/main.o
- .debug_macro   0x000149a0      0x293 src/main.o
- .debug_macro   0x00014c33      0x50f src/main.o
- .debug_macro   0x00015142       0x88 src/main.o
- .debug_macro   0x000151ca       0xce src/main.o
- .debug_macro   0x00015298       0x10 src/main.o
- .debug_macro   0x000152a8      0x1d0 src/main.o
- .debug_macro   0x00015478       0x22 src/main.o
- .debug_macro   0x0001549a       0x66 src/main.o
- .debug_macro   0x00015500      0x1b5 src/main.o
- .debug_macro   0x000156b5       0xab src/main.o
- .debug_macro   0x00015760      0x22c src/main.o
- .debug_macro   0x0001598c      0x240 src/main.o
- .debug_macro   0x00015bcc      0x133 src/main.o
- .debug_macro   0x00015cff      0x10c src/main.o
- .debug_macro   0x00015e0b       0x3c src/main.o
- .debug_macro   0x00015e47      0x2db src/main.o
- .debug_macro   0x00016122       0x7b src/main.o
- .debug_macro   0x0001619d      0x313 src/main.o
- .debug_macro   0x000164b0      0x4dc src/main.o
- .debug_macro   0x0001698c       0xd6 src/main.o
- .debug_macro   0x00016a62      0x398 src/main.o
- .debug_macro   0x00016dfa       0xd6 src/main.o
- .debug_macro   0x00016ed0      0x398 src/main.o
- .debug_macro   0x00017268      0x22b src/main.o
- .debug_macro   0x00017493      0x1ed src/main.o
- .debug_macro   0x00017680      0x2e2 src/main.o
- .debug_macro   0x00017962      0x677 src/main.o
- .debug_macro   0x00017fd9      0x24f src/main.o
- .debug_macro   0x00018228      0x138 src/main.o
- .debug_macro   0x00018360      0x4e8 src/main.o
- .debug_macro   0x00018848       0x47 src/main.o
- .debug_macro   0x0001888f      0x1df src/main.o
- .debug_macro   0x00018a6e       0x29 src/main.o
- .debug_macro   0x00018a97       0x58 src/main.o
- .debug_macro   0x00018aef      0x1c3 src/main.o
- .debug_macro   0x00018cb2       0x30 src/main.o
- .debug_macro   0x00018ce2       0x58 src/main.o
- .debug_macro   0x00018d3a      0x2cd src/main.o
- .debug_macro   0x00019007       0x10 src/main.o
- .debug_macro   0x00019017       0xa5 src/main.o
- .debug_macro   0x000190bc       0x8d src/main.o
- .debug_macro   0x00019149      0x1df src/main.o
- .debug_macro   0x00019328      0x119 src/main.o
- .debug_macro   0x00019441       0x75 src/main.o
- .debug_macro   0x000194b6      0x130 src/main.o
- .debug_macro   0x000195e6      0x264 src/main.o
- .debug_macro   0x0001984a       0x40 src/main.o
- .debug_macro   0x0001988a       0xa0 src/main.o
- .debug_macro   0x0001992a       0x10 src/main.o
- .debug_macro   0x0001993a      0x11e src/main.o
- .debug_macro   0x00019a58      0x490 src/stm32f7xx_it.o
- .debug_macro   0x00019ee8      0x1a3 src/syscalls.o
- .debug_macro   0x0001a08b      0x166 src/syscalls.o
- .debug_macro   0x0001a1f1       0x4a src/syscalls.o
- .debug_macro   0x0001a23b       0x10 src/syscalls.o
- .debug_macro   0x0001a24b       0x35 src/syscalls.o
- .debug_macro   0x0001a280       0x10 src/syscalls.o
- .debug_macro   0x0001a290       0x10 src/syscalls.o
- .debug_macro   0x0001a2a0       0x35 src/syscalls.o
- .debug_macro   0x0001a2d5      0x121 src/syscalls.o
- .debug_macro   0x0001a3f6       0x16 src/syscalls.o
- .debug_macro   0x0001a40c       0x16 src/syscalls.o
- .debug_macro   0x0001a422       0x29 src/syscalls.o
- .debug_macro   0x0001a44b       0x10 src/syscalls.o
- .debug_macro   0x0001a45b      0x241 src/syscalls.o
- .debug_macro   0x0001a69c       0x1c src/syscalls.o
- .debug_macro   0x0001a6b8      0x13e src/syscalls.o
- .debug_macro   0x0001a7f6       0x16 src/syscalls.o
- .debug_macro   0x0001a80c       0x22 src/syscalls.o
- .debug_macro   0x0001a82e      0x47d src/system_stm32f7xx.o
- .debug_macro   0x0001acab      0x4b3 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_macro   0x0001b15e      0x4e9 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_macro   0x0001b647       0x9a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_macro   0x0001b6e1      0x26a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_macro   0x0001b94b      0x495 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_macro   0x0001bde0      0x4aa HAL_Driver/Src/stm32f7xx_hal.o
- .debug_macro   0x0001c28a      0x486 HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_macro   0x0001c710      0x48d HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_macro   0x0001cb9d      0x494 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_macro   0x0001d031      0x4be HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_macro   0x0001d4ef      0x486 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_macro   0x0001d975      0x486 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_macro   0x0001ddfb      0x49e HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_macro   0x0001e299      0x4aa HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_macro   0x0001e743      0x492 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_macro   0x0001ebd5      0x486 HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_macro   0x0001f05b      0x486 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+.debug_macro    0x00000000    0x207e5
+ .debug_macro   0x00000000      0x4f8 src/main.o
+ .debug_macro   0x000004f8      0x892 src/main.o
+ .debug_macro   0x00000d8a       0x28 src/main.o
+ .debug_macro   0x00000db2       0x3b src/main.o
+ .debug_macro   0x00000ded       0x3b src/main.o
+ .debug_macro   0x00000e28       0x22 src/main.o
+ .debug_macro   0x00000e4a       0x44 src/main.o
+ .debug_macro   0x00000e8e       0x1c src/main.o
+ .debug_macro   0x00000eaa      0x1f7 src/main.o
+ .debug_macro   0x000010a1       0x34 src/main.o
+ .debug_macro   0x000010d5       0x26 src/main.o
+ .debug_macro   0x000010fb     0x10a4 src/main.o
+ .debug_macro   0x0000219f     0xa6d7 src/main.o
+ .debug_macro   0x0000c876       0x43 src/main.o
+ .debug_macro   0x0000c8b9      0x25a src/main.o
+ .debug_macro   0x0000cb13     0x2c17 src/main.o
+ .debug_macro   0x0000f72a       0x58 src/main.o
+ .debug_macro   0x0000f782       0x35 src/main.o
+ .debug_macro   0x0000f7b7       0x9c src/main.o
+ .debug_macro   0x0000f853       0x16 src/main.o
+ .debug_macro   0x0000f869       0x97 src/main.o
+ .debug_macro   0x0000f900      0x29d src/main.o
+ .debug_macro   0x0000fb9d       0xef src/main.o
+ .debug_macro   0x0000fc8c       0x10 src/main.o
+ .debug_macro   0x0000fc9c       0x52 src/main.o
+ .debug_macro   0x0000fcee       0x16 src/main.o
+ .debug_macro   0x0000fd04       0x43 src/main.o
+ .debug_macro   0x0000fd47      0x180 src/main.o
+ .debug_macro   0x0000fec7       0x10 src/main.o
+ .debug_macro   0x0000fed7       0x22 src/main.o
+ .debug_macro   0x0000fef9       0xbd src/main.o
+ .debug_macro   0x0000ffb6       0x16 src/main.o
+ .debug_macro   0x0000ffcc      0x196 src/main.o
+ .debug_macro   0x00010162       0x57 src/main.o
+ .debug_macro   0x000101b9      0x5bb src/main.o
+ .debug_macro   0x00010774     0x188a src/main.o
+ .debug_macro   0x00011ffe       0xdd src/main.o
+ .debug_macro   0x000120db      0x11e src/main.o
+ .debug_macro   0x000121f9      0x1f4 src/main.o
+ .debug_macro   0x000123ed       0x27 src/main.o
+ .debug_macro   0x00012414      0x272 src/main.o
+ .debug_macro   0x00012686       0x5f src/main.o
+ .debug_macro   0x000126e5      0x241 src/main.o
+ .debug_macro   0x00012926      0x313 src/main.o
+ .debug_macro   0x00012c39      0x14d src/main.o
+ .debug_macro   0x00012d86       0xd6 src/main.o
+ .debug_macro   0x00012e5c      0x360 src/main.o
+ .debug_macro   0x000131bc      0x272 src/main.o
+ .debug_macro   0x0001342e       0xab src/main.o
+ .debug_macro   0x000134d9       0x4c src/main.o
+ .debug_macro   0x00013525       0x2e src/main.o
+ .debug_macro   0x00013553      0x1f3 src/main.o
+ .debug_macro   0x00013746       0xe6 src/main.o
+ .debug_macro   0x0001382c       0xa1 src/main.o
+ .debug_macro   0x000138cd       0x3c src/main.o
+ .debug_macro   0x00013909       0x6c src/main.o
+ .debug_macro   0x00013975      0x1aa src/main.o
+ .debug_macro   0x00013b1f      0xda1 src/main.o
+ .debug_macro   0x000148c0      0x111 src/main.o
+ .debug_macro   0x000149d1      0x293 src/main.o
+ .debug_macro   0x00014c64      0x50f src/main.o
+ .debug_macro   0x00015173       0x88 src/main.o
+ .debug_macro   0x000151fb       0xce src/main.o
+ .debug_macro   0x000152c9       0x10 src/main.o
+ .debug_macro   0x000152d9      0x1d0 src/main.o
+ .debug_macro   0x000154a9       0x22 src/main.o
+ .debug_macro   0x000154cb       0x66 src/main.o
+ .debug_macro   0x00015531      0x1b5 src/main.o
+ .debug_macro   0x000156e6       0xab src/main.o
+ .debug_macro   0x00015791      0x22c src/main.o
+ .debug_macro   0x000159bd      0x240 src/main.o
+ .debug_macro   0x00015bfd      0x133 src/main.o
+ .debug_macro   0x00015d30      0x10c src/main.o
+ .debug_macro   0x00015e3c       0x3c src/main.o
+ .debug_macro   0x00015e78      0x2db src/main.o
+ .debug_macro   0x00016153       0x7b src/main.o
+ .debug_macro   0x000161ce      0x313 src/main.o
+ .debug_macro   0x000164e1      0x4dc src/main.o
+ .debug_macro   0x000169bd       0xd6 src/main.o
+ .debug_macro   0x00016a93      0x398 src/main.o
+ .debug_macro   0x00016e2b       0xd6 src/main.o
+ .debug_macro   0x00016f01      0x398 src/main.o
+ .debug_macro   0x00017299      0x22b src/main.o
+ .debug_macro   0x000174c4      0x1ed src/main.o
+ .debug_macro   0x000176b1      0x2e2 src/main.o
+ .debug_macro   0x00017993      0x677 src/main.o
+ .debug_macro   0x0001800a      0x24f src/main.o
+ .debug_macro   0x00018259      0x138 src/main.o
+ .debug_macro   0x00018391      0x4e8 src/main.o
+ .debug_macro   0x00018879       0x47 src/main.o
+ .debug_macro   0x000188c0      0x1df src/main.o
+ .debug_macro   0x00018a9f       0x29 src/main.o
+ .debug_macro   0x00018ac8       0x58 src/main.o
+ .debug_macro   0x00018b20      0x1c3 src/main.o
+ .debug_macro   0x00018ce3       0x30 src/main.o
+ .debug_macro   0x00018d13       0x58 src/main.o
+ .debug_macro   0x00018d6b      0x2cd src/main.o
+ .debug_macro   0x00019038       0x10 src/main.o
+ .debug_macro   0x00019048       0xa5 src/main.o
+ .debug_macro   0x000190ed       0x8d src/main.o
+ .debug_macro   0x0001917a      0x1df src/main.o
+ .debug_macro   0x00019359      0x119 src/main.o
+ .debug_macro   0x00019472       0x75 src/main.o
+ .debug_macro   0x000194e7      0x130 src/main.o
+ .debug_macro   0x00019617      0x264 src/main.o
+ .debug_macro   0x0001987b       0x40 src/main.o
+ .debug_macro   0x000198bb       0xa0 src/main.o
+ .debug_macro   0x0001995b       0x10 src/main.o
+ .debug_macro   0x0001996b      0x11e src/main.o
+ .debug_macro   0x00019a89       0x10 src/main.o
+ .debug_macro   0x00019a99      0x39f src/main.o
+ .debug_macro   0x00019e38       0x2e src/main.o
+ .debug_macro   0x00019e66      0x490 src/stm32f7xx_it.o
+ .debug_macro   0x0001a2f6      0x1a3 src/syscalls.o
+ .debug_macro   0x0001a499      0x166 src/syscalls.o
+ .debug_macro   0x0001a5ff       0x4a src/syscalls.o
+ .debug_macro   0x0001a649       0x10 src/syscalls.o
+ .debug_macro   0x0001a659       0x35 src/syscalls.o
+ .debug_macro   0x0001a68e       0x10 src/syscalls.o
+ .debug_macro   0x0001a69e       0x10 src/syscalls.o
+ .debug_macro   0x0001a6ae       0x35 src/syscalls.o
+ .debug_macro   0x0001a6e3      0x121 src/syscalls.o
+ .debug_macro   0x0001a804       0x16 src/syscalls.o
+ .debug_macro   0x0001a81a       0x16 src/syscalls.o
+ .debug_macro   0x0001a830       0x29 src/syscalls.o
+ .debug_macro   0x0001a859       0x10 src/syscalls.o
+ .debug_macro   0x0001a869      0x241 src/syscalls.o
+ .debug_macro   0x0001aaaa       0x1c src/syscalls.o
+ .debug_macro   0x0001aac6      0x13e src/syscalls.o
+ .debug_macro   0x0001ac04       0x16 src/syscalls.o
+ .debug_macro   0x0001ac1a       0x22 src/syscalls.o
+ .debug_macro   0x0001ac3c      0x47d src/system_stm32f7xx.o
+ .debug_macro   0x0001b0b9      0x50a src/touchscreen.o
+ .debug_macro   0x0001b5c3      0x4b3 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_macro   0x0001ba76      0x4e9 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_macro   0x0001bf5f       0x9a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_macro   0x0001bff9      0x26a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_macro   0x0001c263      0x495 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_macro   0x0001c6f8      0x4bc Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_macro   0x0001cbb4       0x63 Utilities/Components/ft5336/ft5336.o
+ .debug_macro   0x0001cc17      0x4aa HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_macro   0x0001d0c1      0x486 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_macro   0x0001d547      0x48d HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_macro   0x0001d9d4      0x494 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_macro   0x0001de68      0x4be HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_macro   0x0001e326      0x4cd HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_macro   0x0001e7f3      0x486 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_macro   0x0001ec79      0x486 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_macro   0x0001f0ff      0x49e HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_macro   0x0001f59d      0x4aa HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_macro   0x0001fa47      0x492 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_macro   0x0001fed9      0x486 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_macro   0x0002035f      0x486 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_str      0x00000000    0xca704
- .debug_str     0x00000000    0xc58e3 src/main.o
-                              0xc5bc4 (size before relaxing)
- .debug_str     0x000c58e3       0x38 src/stm32f7xx_it.o
+.debug_str      0x00000000    0xcc8f6
+ .debug_str     0x00000000    0xc6ef7 src/main.o
+                              0xc71de (size before relaxing)
+ .debug_str     0x000c6ef7       0x38 src/stm32f7xx_it.o
                               0xc38a5 (size before relaxing)
- .debug_str     0x000c591b      0xf92 src/syscalls.o
+ .debug_str     0x000c6f2f      0xf92 src/syscalls.o
                                0x6762 (size before relaxing)
- .debug_str     0x000c68ad       0x7b src/system_stm32f7xx.o
+ .debug_str     0x000c7ec1       0x7b src/system_stm32f7xx.o
                               0xc2ade (size before relaxing)
- .debug_str     0x000c6928     0x1126 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_str     0x000c7f3c      0x17f src/touchscreen.o
+                              0xc6e80 (size before relaxing)
+ .debug_str     0x000c80bb     0x111a Utilities/STM32746G-Discovery/stm32746g_discovery.o
                               0xc5e0e (size before relaxing)
- .debug_str     0x000c7a4e      0xd8a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_str     0x000c91d5      0xd8a Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
                               0xc67ae (size before relaxing)
- .debug_str     0x000c87d8      0x3d4 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_str     0x000c9f5f      0x3d4 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
                               0xc4b00 (size before relaxing)
- .debug_str     0x000c8bac      0x33a HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_str     0x000ca333      0x16f Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+                              0xc689b (size before relaxing)
+ .debug_str     0x000ca4a2      0x287 Utilities/Components/ft5336/ft5336.o
+                               0x4700 (size before relaxing)
+ .debug_str     0x000ca729      0x33a HAL_Driver/Src/stm32f7xx_hal.o
                               0xc4386 (size before relaxing)
- .debug_str     0x000c8ee6      0x362 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_str     0x000caa63      0x362 HAL_Driver/Src/stm32f7xx_hal_cortex.o
                               0xc4439 (size before relaxing)
- .debug_str     0x000c9248      0x185 HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_str     0x000cadc5      0x17d HAL_Driver/Src/stm32f7xx_hal_dma.o
                               0xc3ce2 (size before relaxing)
- .debug_str     0x000c93cd      0x294 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_str     0x000caf42      0x294 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
                               0xc3dc8 (size before relaxing)
- .debug_str     0x000c9661      0x22a HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_str     0x000cb1d6      0x22a HAL_Driver/Src/stm32f7xx_hal_gpio.o
                               0xc3cf5 (size before relaxing)
- .debug_str     0x000c988b      0x240 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_str     0x000cb400      0x67d HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                              0xc444d (size before relaxing)
+ .debug_str     0x000cba7d      0x240 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
                               0xc3e95 (size before relaxing)
- .debug_str     0x000c9acb       0x51 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_str     0x000cbcbd       0x51 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
                               0xc38d8 (size before relaxing)
- .debug_str     0x000c9b1c      0x1cb HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_str     0x000cbd0e      0x1cb HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
                               0xc3dad (size before relaxing)
- .debug_str     0x000c9ce7      0x243 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_str     0x000cbed9      0x243 HAL_Driver/Src/stm32f7xx_hal_rcc.o
                               0xc3e3f (size before relaxing)
- .debug_str     0x000c9f2a      0x10d HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_str     0x000cc11c      0x10d HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
                               0xc3d9e (size before relaxing)
- .debug_str     0x000ca037      0x268 HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_str     0x000cc229      0x268 HAL_Driver/Src/stm32f7xx_hal_sdram.o
                               0xc4078 (size before relaxing)
- .debug_str     0x000ca29f      0x465 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_str     0x000cc491      0x465 HAL_Driver/Src/stm32f7xx_ll_fmc.o
                               0xc3f73 (size before relaxing)
 
 .comment        0x00000000       0x70
@@ -21122,14 +21409,18 @@ OUTPUT(Print_LCD.elf elf32-littlearm)
  .comment       0x00000000       0x71 src/stm32f7xx_it.o
  .comment       0x00000000       0x71 src/syscalls.o
  .comment       0x00000000       0x71 src/system_stm32f7xx.o
+ .comment       0x00000000       0x71 src/touchscreen.o
  .comment       0x00000000       0x71 Utilities/STM32746G-Discovery/stm32746g_discovery.o
  .comment       0x00000000       0x71 Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
  .comment       0x00000000       0x71 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .comment       0x00000000       0x71 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .comment       0x00000000       0x71 Utilities/Components/ft5336/ft5336.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_cortex.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_dma.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_i2c.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
@@ -21138,51 +21429,55 @@ OUTPUT(Print_LCD.elf elf32-littlearm)
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_hal_sdram.o
  .comment       0x00000000       0x71 HAL_Driver/Src/stm32f7xx_ll_fmc.o
 
-.debug_frame    0x00000000     0x38b8
- .debug_frame   0x00000000      0x128 src/main.o
- .debug_frame   0x00000128       0x2c src/stm32f7xx_it.o
- .debug_frame   0x00000154      0x2d4 src/syscalls.o
- .debug_frame   0x00000428       0x58 src/system_stm32f7xx.o
- .debug_frame   0x00000480      0x4c0 Utilities/STM32746G-Discovery/stm32746g_discovery.o
- .debug_frame   0x00000940      0x73c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
- .debug_frame   0x0000107c      0x184 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
- .debug_frame   0x00001200      0x2f0 HAL_Driver/Src/stm32f7xx_hal.o
- .debug_frame   0x000014f0      0x450 HAL_Driver/Src/stm32f7xx_hal_cortex.o
- .debug_frame   0x00001940      0x194 HAL_Driver/Src/stm32f7xx_hal_dma.o
- .debug_frame   0x00001ad4      0x338 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
- .debug_frame   0x00001e0c      0x14c HAL_Driver/Src/stm32f7xx_hal_gpio.o
- .debug_frame   0x00001f58      0x3d8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
- .debug_frame   0x00002330       0x90 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
- .debug_frame   0x000023c0      0x1c8 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
- .debug_frame   0x00002588      0x204 HAL_Driver/Src/stm32f7xx_hal_rcc.o
- .debug_frame   0x0000278c       0x88 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
- .debug_frame   0x00002814      0x37c HAL_Driver/Src/stm32f7xx_hal_sdram.o
- .debug_frame   0x00002b90      0x378 HAL_Driver/Src/stm32f7xx_ll_fmc.o
- .debug_frame   0x00002f08       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
- .debug_frame   0x00002f28       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
- .debug_frame   0x00002f54       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
- .debug_frame   0x00002f88       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
- .debug_frame   0x0000300c       0x40 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
- .debug_frame   0x0000304c       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x0000309c       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
- .debug_frame   0x000030bc       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
- .debug_frame   0x00003140       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
- .debug_frame   0x00003174       0x9c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
- .debug_frame   0x00003210       0x58 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
- .debug_frame   0x00003268       0x3c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
- .debug_frame   0x000032a4       0x30 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
- .debug_frame   0x000032d4      0x26c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
- .debug_frame   0x00003540       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
- .debug_frame   0x00003560       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
- .debug_frame   0x0000358c       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
- .debug_frame   0x000035ac       0x7c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
- .debug_frame   0x00003628       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
- .debug_frame   0x0000365c       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
- .debug_frame   0x00003684       0x74 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
- .debug_frame   0x000036f8       0x30 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
- .debug_frame   0x00003728       0x54 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
- .debug_frame   0x0000377c       0x58 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
- .debug_frame   0x000037d4       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x000037fc       0x54 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(bpabi.o)
- .debug_frame   0x00003850       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
- .debug_frame   0x00003884       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)
+.debug_frame    0x00000000     0x44bc
+ .debug_frame   0x00000000      0x144 src/main.o
+ .debug_frame   0x00000144       0x2c src/stm32f7xx_it.o
+ .debug_frame   0x00000170      0x2d4 src/syscalls.o
+ .debug_frame   0x00000444       0x58 src/system_stm32f7xx.o
+ .debug_frame   0x0000049c       0x80 src/touchscreen.o
+ .debug_frame   0x0000051c      0x4c0 Utilities/STM32746G-Discovery/stm32746g_discovery.o
+ .debug_frame   0x000009dc      0x73c Utilities/STM32746G-Discovery/stm32746g_discovery_lcd.o
+ .debug_frame   0x00001118      0x184 Utilities/STM32746G-Discovery/stm32746g_discovery_sdram.o
+ .debug_frame   0x0000129c      0x124 Utilities/STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_frame   0x000013c0      0x230 Utilities/Components/ft5336/ft5336.o
+ .debug_frame   0x000015f0      0x2f0 HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_frame   0x000018e0      0x450 HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_frame   0x00001d30      0x194 HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_frame   0x00001ec4      0x338 HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_frame   0x000021fc      0x14c HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_frame   0x00002348      0x814 HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_frame   0x00002b5c      0x3d8 HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_frame   0x00002f34       0x90 HAL_Driver/Src/stm32f7xx_hal_msp_template.o
+ .debug_frame   0x00002fc4      0x1c8 HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_frame   0x0000318c      0x204 HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_frame   0x00003390       0x88 HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_frame   0x00003418      0x37c HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_frame   0x00003794      0x378 HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_frame   0x00003b0c       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-errno.o)
+ .debug_frame   0x00003b2c       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-init.o)
+ .debug_frame   0x00003b58       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memset.o)
+ .debug_frame   0x00003b8c       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00003c10       0x40 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00003c50       0x50 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00003ca0       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00003cc0       0x84 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00003d44       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-fini.o)
+ .debug_frame   0x00003d78       0x9c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-locale.o)
+ .debug_frame   0x00003e14       0x58 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00003e6c       0x3c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00003ea8       0x30 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00003ed8      0x26c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00004144       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00004164       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00004190       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-strlen.o)
+ .debug_frame   0x000041b0       0x7c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000422c       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00004260       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00004288       0x74 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-freer.o)
+ .debug_frame   0x000042fc       0x30 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000432c       0x54 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00004380       0x58 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16\libc.a(lib_a-reent.o)
+ .debug_frame   0x000043d8       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00004400       0x54 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(bpabi.o)
+ .debug_frame   0x00004454       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_divdi3.o)
+ .debug_frame   0x00004488       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/cortex-m7/fpu/fpv5-sp-d16\libgcc.a(_udivdi3.o)

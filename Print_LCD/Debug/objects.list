@@ -3,6 +3,7 @@
 "src/stm32f7xx_it.o"
 "src/syscalls.o"
 "src/system_stm32f7xx.o"
+"src/touchscreen.o"
 "Utilities/STM32746G-Discovery/stm32746g_discovery.o"
 "Utilities/STM32746G-Discovery/stm32746g_discovery_audio.o"
 "Utilities/STM32746G-Discovery/stm32746g_discovery_camera.o"
