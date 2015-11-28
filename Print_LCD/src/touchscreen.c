@@ -64,8 +64,8 @@ static void Touchscreen_DrawBackground (uint8_t state);
  * @param  None
  * @retval None
  */
-void Touchscreen_demo (void)
-{
+void Touchscreen_demo (void){
+
 	uint8_t  status = 0;
 	uint16_t x, y;
 	uint8_t  state = 0;
@@ -96,8 +96,7 @@ void Touchscreen_demo (void)
 			/* Check in polling mode in touch screen the touch status and coordinates */
 			/* if touch occurred                                                      */
 			BSP_TS_GetState(&TS_State);
-			if(TS_State.touchDetected)
-			{
+			if(TS_State.touchDetected){
 				/* Get X and Y position of the touch post calibrated */
 				x = TS_State.touchX[0];
 				y = TS_State.touchY[0];
@@ -243,8 +242,8 @@ void Touchscreen_demo (void)
  * @param  None
  * @retval None
  */
-static void Touchscreen_SetHint(void)
-{
+static void Touchscreen_SetHint(void){
+
 	/* Clear the LCD */
 	BSP_LCD_Clear(LCD_COLOR_WHITE);
 
